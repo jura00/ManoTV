@@ -1,0 +1,433 @@
+#EXTM3U
+#EXTINF:-1group-title=" Lietuviška TV",LRT TELEVIZIJA
+http://88.216.8.81:5455
+#EXTINF:-1,LRT PLIUS
+http://88.216.8.81:5456
+#EXTINF:-1,LRT Lituanica
+http://streams.iptv.luxe:80/s/9703/c/563/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV3
+http://88.216.8.81:5408
+#EXTINF:-1,LNK
+http://88.216.8.81:5403
+#EXTINF:-1,TV6
+http://88.216.8.81:5409
+#EXTINF:-1,TV1
+http://88.216.8.81:5407
+#EXTINF:-1,BTV
+http://88.216.8.81:5410
+#EXTINF:-1,Balticum TV
+http://streams.iptv.luxe:80/p/591779/c/241/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Info TV
+http://88.216.8.81:5404
+#EXTINF:-1,Lietuvos rytas TV
+http://88.216.8.81:5401
+#EXTINF:-1,TV8
+http://88.216.8.81:5406
+#EXTINF:-1,LIUKS!
+http://88.216.8.81:5405
+#EXTINF:-1,INIT TV 
+http://streams.iptv.luxe:80/p/591779/c/67/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,INIT EkstraTV 
+http://streams.iptv.luxe:80/p/591779/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV7 
+http://streams.iptv.luxe:80/p/591779/c/355/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,PlayTV 
+http://streams.iptv.luxe:80/p/591779/c/351/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Pukas TV 
+http://streams.iptv.luxe:80/p/591779/c/235/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1,LRT Televizija HD
+http://streams.iptv.luxe:80/s/9703/c/648/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,LRT Plius HD
+http://streams.iptv.luxe:80/p/119409/c/268/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV3 HD 
+http://streams.iptv.luxe:80/s/9703/c/887/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,LNK HD
+http://streams.iptv.luxe:80/s/9703/c/1741/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV6 HD 
+http://streams.iptv.luxe:80/s/9703/c/888/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV1 HD
+http://streams.iptv.luxe:80/s/9703/c/1379/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,BTV HD 
+http://streams.iptv.luxe:80/s/9703/c/1740/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV8 HD 
+http://streams.iptv.luxe:80/s/9703/c/1742/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Lietuvos Rytas HD 
+http://streams.iptv.luxe:80/p/591779/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+
+#EXTM3U
+#EXTINF:-1group-title=" Filmai",TV1000 Premium
+http://streams.iptv.luxe:80/p/119409/c/258/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV1000 Premium HD 
+http://streams.iptv.luxe:80/p/591779/c/365/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Balticum Auksinis
+http://streams.iptv.luxe:80/s/9703/c/1164/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Balticum Platinum HD
+http://streams.iptv.luxe:80/p/591779/c/317/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,FilmZone
+http://streams.iptv.luxe:80/p/591779/c/73/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,FilmZone + HD 
+http://streams.iptv.luxe:80/p/591779/c/381/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Epic Drama HD
+http://streams.iptv.luxe:80/p/591779/c/252/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV 1000
+http://streams.iptv.luxe:80/p/119409/c/56/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV 1000 Action
+http://streams.iptv.luxe:80/p/119409/c/57/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV 1000 World Kino
+http://streams.iptv.luxe:80/s/13163/c/344/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1,ViP Premiere HD
+http://streams.iptv.luxe:80/s/13163/c/41/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,ViP Comedy HD
+http://streams.iptv.luxe:80/s/13163/c/39/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,ViP Megahit HD
+http://streams.iptv.luxe:80/s/13163/c/40/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TV XXI (TV21)
+http://streams.iptv.luxe:80/p/497159/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Kinoman HD
+http://streams.iptv.luxe:80/p/561323/c/39/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Hollywood
+http://streams.iptv.luxe:80/p/570039/c/137/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Hollywood HD
+http://streams.iptv.luxe:80/p/579554/c/130/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Paramount Channel
+http://streams.iptv.luxe:80/p/570039/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Остросюжетное HD
+http://streams.iptv.luxe:80/s/13163/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Кино ТВ
+http://streams.iptv.luxe:80/s/13163/c/123/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Кинохит
+http://streams.iptv.luxe:80/p/579554/c/93/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Киномикс
+http://streams.iptv.luxe:80/p/579554/c/94/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Кинокомедия
+http://streams.iptv.luxe:80/p/579554/c/90/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://streams.iptv.luxe:80/s/13163/c/59/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Киносвидание
+http://streams.iptv.luxe:80/p/579554/c/92/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Киносемья
+http://streams.iptv.luxe:80/p/579554/c/91/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,КиноПремиум HD
+http://streams.iptv.luxe:80/s/13163/c/59/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Кинопоказ
+http://streams.iptv.luxe:80/s/13163/c/185/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,FilmBox 
+http://streams.iptv.luxe:80/s/13163/c/452/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,FilmBox Action
+http://streams.iptv.luxe:80/p/552144/c/87/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Filmbox Baltic
+http://streams.iptv.luxe:80/p/531671/c/79/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1,Наше любимое кино
+http://1ttvauth.top/s/623/1/auto/b1FOd1VSWHRpRndqb21BSXVZUjRlVGtwMDd1QW5rWWZ5STJpT3g0L0RpNkZRSFJTOGZYY1lhRlRsc1ZGQmdyL1ozZWxYZHA4REFLa1YwYm5IMFRXb3UwRDJoZ3BuZ1RrYityYklPM2JnREhkc3pCVA/0/playlist.m3u8
+#EXTINF:-1,Дом кино
+http://1ttvauth.top/s/1006/1/auto/cEFOSmpCWHRpRnlBRWlLWEVGOXZGS1NxNll2UmdqcjRsd1owWG55NjVmbEY0b2FaVEk3WkQvZEE1U0NsL0ovV0VSUWFmTFdwWUJhMHNyM1VPZUhYelpYZm05MUd3L29kZGdySWx5bVF6S0Z1cVRmOEhRPT0/0/playlist.m3u8
+#EXTINF:-1,Дом кино Премиум HD
+http://1ttvauth.top/s/1111/1/auto/cHdQMXVCWHRpRndOeW1HRkN0VWd1TkdOdzY2OW9UR3p0U3RsU3FleDFEa240WmU0QzkvbUhkRDNuMFROQXUvOUtYYUJkbERTNkhzTnd2WlJzNzQ4QU9vSENxbHFzclhmL2R4MVZnS3BYellQeXpMcWFBPT0/0/playlist.m3u8
+#EXTINF:-1,Наш кинороман HD
+http://1ttvauth.top/s/1094/1/auto/cXdOZGRCWHRpRndPUkdRMHprUWw2bGtLeno3SGhoTndhQUlCU2UzNWlCV2xYVDhGaE1hRkFHM0lTQ2JYNW9ISUFyS1Axblh6c2cramlZZGNmNlAwcmhKeXN2bXdXNmtwem4yOXR0V0xzVUpxU1pFNlRRPT0/0/playlist.m3u8
+#EXTINF:-1,Киносерия
+http://1ttvauth.top/s/624/1/auto/cmdPMVRCWHRpRnl1ZWNLTjFzQXpaNGtSaFRMb3ZCOWFscERvcXMrU0ZSTDhkbDVaZysvVm9BNmNuKzV5RzNXQllCcG1UQ3pJRjRzQVBGQ3d5TnFvbXI2UVJJdWk3WEgzdzZPVkJrWVoxVFNKWXJ1Yg/0/playlist.m3u8
+#EXTINF:-1,ТВ 3
+http://1ttvauth.top/s/427/1/auto/c2dOS2V4WHRpRndZbnBkMmJWV0h4dGp0R1g0aWcwbXNJL1BQZDBaWGhnN1NOcWt2ZVpSbGpFc0xqdnp2UGl2RWczU2prbGlKVWU4ZjViWG9SMnUzeHB5ZVBsczl0bU93UzFDTlpyR1h1aDBqNUxBVg/0/playlist.m3u8
+#EXTINF:-1,ТВ 3 (+4)
+http://1ttvauth.top/s/673/1/auto/dFFQOTJ4WHRpRnoyajRBbjk4TjdhM1luL1VhelYzWGhiVzVNaE5uZDFCZU9iNG9PVStNTUlzL01zZllabW1GWlowVGpzNkpYSXlET3lCOW5xa2hXeEtZbnlSSHRBcm1SQkxtK3llWjVJc2hBRitoWg/0/playlist.m3u8
+#EXTINF:-1,Fox
+http://1ttvauth.top/s/124/1/auto/dUFNVU94WHRpRnpkM0V2WC84N1JYTm1oQjFrQlRJZUMwdG56UmpSQ3RIU3JKaStEZ2R6VmdnQ0NFS0J4RG5LdGJlV0VWTjlvdWhvazE1dnBqcnZoZG9CNnJqTElkY2RFK0w4Zk9TQkxJeE8remJaaA/0/playlist.m3u8
+#EXTINF:-1,Fox HD
+http://1ttvauth.top/s/542/1/auto/dkFPN0ZSWHRpRndSWStLaTgwbStrMzR3QUkzUUVKOTF6K2U5bnZmNzVzNEJyaWtmRjVsK1JhYmhkR0VVTHM2aU5JRU1oODZUeUp1bUg0eGtkN25xQjhBdHJsSDZFM3ZlUG5Db283emxiUWFlemkzSQ/0/playlist.m3u8
+#EXTINF:-1,Fox Life
+http://1ttvauth.top/s/178/1/auto/dndOMGZoWHRpRnpTYyt6VjE5MVdPMk5xa1N1Y1RHemhqNnE3RnpNOEZSOXVYZ3VzNHplVlFkeC9Mekx0cUgzalp0ZU1IY2tmVldncDErcXZ1b3lUZEEvVVprb0tvOHBpa2tiUXlwWWgvYmdONml4dQ/0/playlist.m3u8
+#EXTINF:-1,Amedia 1
+http://1ttvauth.top/s/627/1/auto/d3dOMjRoWHRpRnlKa3ZGZmI0Z1FuYjRhNUFreW9DYUQ4TkdaU21EbkoyWlc0RW5oa2Q2MUhSc2d5OGNVUi91dWFTOVhOanNsQ1BCYjdzVVZaa2cyQ05QcDVUeVFON2I2dVFsTnRuaDBORyt3S2U4Vg/0/playlist.m3u8
+#EXTINF:-1,Amedia 2
+http://1ttvauth.top/s/635/1/auto/eGdPbEFoWHRpRnpRa0F6UE5yK0xNL0wvQUJKZWE4V0lqUi9KSzdXRi9aeVE0Mk5DY3NlS0ZrbUd5OHY0OXRCbEhNOE1zeVdTZG5rdHhkaHFDbWFyYXVkZjNoejRYT1N0TC9Mb0tEb0d1OGNKNU1xRA/0/playlist.m3u8
+#EXTINF:-1,Amedia Hit
+http://1ttvauth.top/s/1107/1/auto/eWdORDRSWHRpRnppSytmaklLMzJSYWFLRWpraDZKQ2FBTnBSZ2FRSW1GM3pQZDQxbnFFN0lCbEtMNU15K2haanlQWi9pbVg2MDBEU2I1N3ZnRUxHT0F1WThZKzRXM2d4cE1GcnJqWjFnS1hYaTVnaTZ3PT0/0/playlist.m3u8
+#EXTINF:-1,Amedia Premium
+http://1ttvauth.top/s/704/1/auto/elFQeEJCWHRpRnpxYXV4UWVwSVZ0eENDNUdzODh5U21TQlFmb1RRVVB3VHN6ZlRNV01lT2FUd2owTUdld2FDUFROVW9zNkRQeExwaFZhRjFheklid1ZsaDRKVTVUUi9EK0NYZUJhNlZjSW5lRXN4dA/0/playlist.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://1ttvauth.top/s/636/1/auto/MFFNQlhCWHRpRnpTbTMxUWRjZ3JabkhXQmRDQXJ2V1pYZVAwZEF6Q3JNQkFTT2tTMTlIMGc4R0FzaXh2d0U3VWp3Z1FKVkQxKy96dkNURStwSmNpSmtXajVmU09obzN4S2pkby9RcVZVT21obkYzZQ/0/playlist.m3u8
+#EXTINF:-1,Иллюзион+
+http://1ttvauth.top/s/140/1/auto/MUFNVGdCWHRpRnlOQTluMTNXVTZOVHI2WGloWmFJNXliL1dZTGFUQnhISERBVzRiSVB5VXN6V3AwaG1GcVpnK0VndmhKSmRLYkIyMTlseFdya0sxcm1kR0xWVGFsUWcvNmpLTUQ1TC9OL1I4WVBaQg/0/playlist.m3u8
+#EXTINF:-1,Родное кино
+http://1ttvauth.top/s/36/1/auto/MXdOZTloWHRpRnlORURFWG1HYmRncTlZRlluN0p0SGROaXZQZkRNUXl4d2UvUzhZclE5NWs0SWlUaktFTE9jZUNOakN6UTk1T0FRUXpQN2dTTmVwUlFjQUxLd3I4TXZrTHF3dXA2TWFQYklqbi93PQ/0/playlist.m3u8
+#EXTINF:-1,Еврокино
+http://1ttvauth.top/s/201/1/auto/MndQVS9oWHRpRnh2WU9sUWNJQnozTzhXTklJeHQ5eXl2WEo4T1BzNHhDNFdhSXhKR2U4TW5lV0JtZVYyREJvNjVObVo3TG9HM216S2RWUU5pVjRJQVJQWFhtWlRyaFRSSDhTTUxIcXozek9FQm4vWQ/0/playlist.m3u8
+#EXTINF:-1,Sony Turbo
+http://1ttvauth.top/s/688/1/auto/M2dNaTFSWHRpRnl0SjQzU25KdEs2OVVlc0RCcXNyeVBpdklmck4wWmVQQ08xUkgrckJmcTgxaUw5cjJpdFF1WXRhRkMvcWZDRWloS1djWGhwRjFUUGdsREpZRUg3Q2xoRUV3UG9wWFJNTW92UVJiYQ/0/playlist.m3u8
+#EXTINF:-1,Enter Film
+http://1ttvauth.top/s/506/1/auto/NGdOcFRCWHRpRnhZcUwxTEpJNC83VjBWLzA2THF0QzZ0R1ZvTUdscmQ3cjhnM2dxS3VRaUVidUZnSGQvQmo4WHE0ZmpEaVhTR2dnWjhyZWM4SDRCKzErMDFWQ0Nrb0JEMDd5UEJ2a0plc3ZJM3JXYw/0/playlist.m3u8
+#EXTINF:-1,НСТ
+http://1ttvauth.top/s/117/1/auto/NVFNZmtCWHRpRnlIWnp1ODAvVXVHb3dUNXBVRDBTbEU2eEQydDI0RnRhT2QwclRuRUVYTnorNHdYYUovNVRpOHdpK0RINGNGOUtyUnlrSXRqWnYyOVNNWXRVRDBaWERkMThVbVVGdnpsN3dpVHVmOA/0/playlist.m3u8
+#EXTINF:-1,SET
+http://1ttvauth.top/s/203/1/auto/QUFCelZoYnRpRndqR1htY1BBb1Uvek43bUVjTTczOUVQVS9yYmdDaG4xQll3K0NrNWFCSnlyVEtTK1krMkNFR2VETVdCdXErWHE5cmdiR3dETExkVWc4YlA0czhObzgvQ0gxZ3Q5MVAzaFNsS2Fmcg/0/playlist.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://1ttvauth.top/s/119/1/auto/QXdDQ1FCYnRpRnpnN0RweHVsZVRFaHNReVU4WEJoNk1GRzNPbHhlS2Y2bHlaaWY5WnUxOEtGTUZMWDMvWGFRbnpSdEpoY3Uvdy9BcWNhS0tLY1Z5cUIzOWhmaGZiRHpMWXk1Nm1lOENES2IveXAzNA/0/playlist.m3u8
+#EXTINF:-1,Amedia Hit HD
+http://1ttvauth.top/s/1081/1/auto/SXdEOGxCYnRpRnhyMTdPWDFSTkV0R01wYVYxQ1QyaU5VKytZYXpGN0VLdnROeWJTMEkva0d2MXFmdmpmNHA4d2ZodnJ4QUx2dVFpTmYrY0NVSUxYZU9hUG9RLytWbDZXenZFK3BweEhtT2JXcUFreVh3PT0/0/playlist.m3u8
+#EXTINF:-1,TV 1000 Русское кино
+http://1ttvauth.top/s/118/1/auto/dlFEUmh4YnRpRnorY2pNYlczRW5RUWFtUHRPVmFFaDhxUytiZFdsVkpzNmFlRUNBbkFKWWR4dlB6WWljNmtma2swRGdrZlFtcUJsWFlyN25NeWc3aWpzUnhQY2dLOFhEN2JONTVyVEx2U2lKU0d0cg/0/playlist.m3u8
+
+#EXTINF:-1,Kino24 
+http://streams.iptv.luxe:80/p/591779/c/376/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,AMC 
+http://streams.iptv.luxe:80/p/561871/c/121/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Kinoman HD
+http://streams.iptv.luxe:80/p/561323/c/39/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+
+
+#EXTM3U
+#EXTINF:-1group-title=" Pažintiniai",Viasat Explore
+http://streams.iptv.luxe:80/p/119409/c/251/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Viasat History
+http://streams.iptv.luxe:80/p/591779/c/99/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Discovery Channel 
+http://streams.iptv.luxe:80/p/591779/c/78/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Discovery Science 
+http://streams.iptv.luxe:80/p/591779/c/77/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Discovery Showcase HD
+http://streams.iptv.luxe:80/p/591779/c/287/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Discovery TLC 
+http://streams.iptv.luxe:80/p/591779/c/193/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,National Geographic 
+http://streams.iptv.luxe:80/p/591779/c/136/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Travel Channel
+http://streams.iptv.luxe:80/p/591779/c/105/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Travel + Adventure
+http://streams.iptv.luxe:80/p/570039/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,Viasat Nature-History HD
+http://streams.iptv.luxe:80/p/592755/c/229/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,History Channel
+http://streams.iptv.luxe:80/p/591779/c/150/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,DocuBox HD
+http://streams.iptv.luxe:80/p/119409/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Fast&Fun Box HD
+http://streams.iptv.luxe:80/p/119410/c/140/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Investigation Discovery
+http://streams.iptv.luxe:80/p/584333/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Viasat Nature 
+http://streams.iptv.luxe:80/p/591779/c/125/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Animal Planet 
+http://streams.iptv.luxe:80/p/591779/c/75/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Nat Geo Wild 
+http://streams.iptv.luxe:80/p/591779/c/257/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1,History Channel
+http://1ttvauth.top/s/637/1/auto/QWdNWmV4WHRpRnlJNFR3bWZVd2tjcXZLVm1uZDY3dm9qcG53UE9RYlFSemhzWEgxR1NQK0dlaTVqZVc4bnBTL1g0eWtHNmFZRkFCMkpQSlVQT2R2UWk1VGV2eUVKYitQWFUycTBFd3JNSG83YTJERw/0/playlist.m3u8
+#EXTINF:-1,Viasat Nature-History HD
+http://1ttvauth.top/s/633/1/auto/QlFOeGJCWHRpRno2Q0hwYkt3OU1IckxyTmtxMXdmdXpEbnRFQVBMbFN6WWZYR3c4czFCQ2NubzFlbW0wSisyN2M2SUl0NE1zWWFEWVZ4UTFjUG5DeDFRN1FVY2F3aFpLQlBKaXZtZGxuU0R0VWVadQ/0/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://1ttvauth.top/s/179/1/auto/Q1FNQlBCWHRpRnhTeVdMUW9OMVFtdDdoREpQWE9MR0ptamkxaEFSTGhsQ0JFMEdvZUN1R3U4RXRZYkIzWTg2SWl4OC9pdERwRHpDTm5lN01TNXlFUW9hYXk3MVU0WEhyTC80OFNKTFVQeWtiaVoxMw/0/playlist.m3u8
+#EXTINF:-1,Viasat Nature East
+http://1ttvauth.top/s/481/1/auto/REFQeHpoWHRpRngvbmprM2VEZUtSbkUvL0l6SExXeDRodjRkRUNLTVFqR2lBUlB5N2J3VTRYQUEybHdNblZJWUxFaEo0Si94ZzRzemlBOU9vVE1MNm41NTR3SDNscTZoRG9VQlZha3lNSTRNNzl1Yw/0/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://1ttvauth.top/s/45/1/auto/RUFOM1NSWHRpRnhJMmkvVkFqeHJPTG1mYWJMalcrV2pKeVp2cHQvRytXK1NhY2NOakh2c0pMdWptWTNYWlY4TmV0bU9LeEhRYmJNdmNERDZXaERwb1pKZS9ob1VZMVROSFFNNFJydFRTRDVtY1lBPQ/0/playlist.m3u8
+#EXTINF:-1,В мире животных HD
+http://1ttvauth.top/s/1239/1/auto/RXdNK3RoWHRpRno4WVk3TWlzZExKOE5Xd0dUbG1QUTMxY2MwbmF1akdzMlE1TzVCUnhpWDUvT0J4LzFvOGNSdm12aWcxcitFUVNqSjVDekIzaGVURkpHd0I1UFdYblNmbmRXSENuSkRRUlZBS1NSZFhRPT0/0/playlist.m3u8
+#EXTINF:-1,HD Life
+http://1ttvauth.top/s/616/1/auto/RmdPZFpCWHRpRnpCa3dUbzFmL0duOWhuWFM2V1JUcnVzYnZWK3BOR3NsaXVyK3FnVmQ4OTJwS2F6QVVXd0NiV28ycVhjRnZUTUM3c25NRDF0NE5CeTFvRmpEZXdSV0VCUlFrYStvd1JLNjZ3dEhmNw/0/playlist.m3u8
+#EXTINF:-1,ID Xtra
+http://1ttvauth.top/s/348/1/auto/R2dONDdoWHRpRnpvUUxGS2xncG1vOUgrOHRVdHdHQWJaQU1jQ3FwcUlwakxiRlBlNHN5Q3VURldmbWhHRS8waGQxeTE2dHcyZEtXR2IrUy9DeWhtcWtxeVZIbkpydU9nL2s5aWFVYWt0YktBOVdDYw/0/playlist.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://1ttvauth.top/s/483/1/auto/SFFOQkxCWHRpRndhb01VMWl3RzNZSW1JcndqMWdwSC9yZERpZHJha2pLVDBPM2VZOHV5VmdLN3B0T2oyYlRSSUNDUGFIdHlFKzhVWGgyME82a2dUR1Q4WXJiZFFXZnhBYkYxUG5qSUQvWlpmM0FnWg/0/playlist.m3u8
+#EXTINF:-1,Animal Planet HD
+http://1ttvauth.top/s/612/1/auto/SVFNT25oWHRpRnp0bkRibitJZjlPYXhXQkc3c1d6MS9LZWFMT1ZZK3IvdEhjaDJvYytuQlRIWW5XM0JLRmVRU0k1SnZITnluOEkrNW0veXMwR2RMYUkxS1UrOHJ5UTBQNnlkWWZmWmhoakl1R3VWNg/0/playlist.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://1ttvauth.top/s/613/1/auto/SkFOVzFoWHRpRncvVTJRR01HMjdLTTFPSUZmZm9XdzdNcHVXc3hZSTR4QU1xa0xlSUxFdk1uN0RtVlIrekZDQ3poMWU3UVNHWEhaNmV2b0E0akh0VytTZW4wUXVJTEJxTm9qanBDa21PL0swM3ZiOA/0/playlist.m3u8
+#EXTINF:-1,National Geographic HD
+http://1ttvauth.top/s/169/1/auto/N2dMeUxSWHRpRndnc1BkVnZsdWIxNTYzVEtVdzd2SkJyNEloVXdHSlRlVEFhc2JYVDV6RGl1WXN6aGxIMzJLVlVwMXI1cVFKYTJWZVlRb1NzTGkveENPR1RaRFpmZTVHb3BGR2Y2emFZeGl0Zk1Sbg/0/playlist.m3u8
+#EXTINF:-1,Travel Channel HD
+http://1ttvauth.top/s/632/1/auto/S0FNUXhCWHRpRnlqcTZROFNtRnZnSWZmd0JHQTlOTWpoaks4ZnVpczJMSitXUDJJcWFZR2tmZ2dNZFdEMXpJSm1YQ0dGR2hBRERTWjZiYXN2RnpPSFl0TWg3UzdVVUdIOHM1UFhTMXl6WmFsUmlyTg/0/playlist.m3u8
+#EXTINF:-1,Travel + adventure HD
+http://1ttvauth.top/s/649/1/auto/K0FJQ3VSWHRpRnlVckpJejFOQVlLdlhrSENtYmtvK1JpbzhFN2FKTTVDTzNQZXJ3alcxN09wNnNpRXFZQUw4TVY4Z2FYSGNYYXRQTDAwbm1rbjdkNzhadFVRNTBvN2ozWEczZkc5eWR6cUtjOG4wcA/0/playlist.m3u8
+#EXTINF:-1,History Channel HD
+http://1ttvauth.top/s/699/1/auto/THdOVG9oWHRpRnpQVkJ2SEpZUzhlY1RqdjRvQmYvOXhFeGJPWUhMajE1a3lpR0hsczFpbDk0bzJIeFF6dmN2eVVFblpDUW9iMEJpcFlNdnNyUmJ6ZWs4TmlWdkVaRTNkQXJrblZJSWMxZnZaNHdVNQ/0/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://1ttvauth.top/s/547/1/auto/TWdPdFVCWHRpRnpYS2FjeE8xOHEwcjRsUFd4R3FCLzVlQ2Rxa2xUYjA5S0Z4SDFic25MekQ5cUJBeU5QSURlVUhnWjBYK2VEVVNSNVlsMUw3TkdoZ3g0MUlQUzEvdW5NRERjMlVaTURSd2Iya2VhUA/0/playlist.m3u8
+#EXTINF:-1,Телепутешествия
+http://1ttvauth.top/s/209/1/auto/TlFOSll4WHRpRndTQXk0Ry9yaldlU2d4ZkVmU2k4WkxpY0EvdWlsaUV3SjRta09NVXVUekN3d2hQZUtWWWxlbE94TDRyMklNYTRuWklIMUJrWExOVVBkNnVHNzhINXE3UWxnMjRZNWt1ZjNUQ0NFWQ/0/playlist.m3u8
+#EXTINF:-1,Планета HD
+http://1ttvauth.top/s/792/1/auto/T3dNNDd4WHRpRnlWTkdIQTljWG4wNXNTU0tFOEtkTGw5KzZnSUl4akIrU3J0NTFCQTFYQmFKK1pGSDk4WkhTQUpqbk5LN1RtbGozNnZEeFM5QWNFdTFpQzBnSHZHNXB6cGhhNHpGOHhqZzlMeGRhUQ/0/playlist.m3u8
+#EXTINF:-1,RTG HD
+http://1ttvauth.top/s/722/1/auto/UGdOYUJ4WHRpRnc4TE95MGxnY2Y0bUJ1WU9xM1dLZjFVQWJqQ09TTFFmVVhROERqOWwyWTJHTUE2VVRpV3RSMms5cWpOMGQ3R29ma2Z1QVg5S25kMjJKUUgvVXBrSFJCd1U4dmRJREt2dnFoYnY1Zg/0/playlist.m3u8
+#EXTINF:-1,TLC
+http://1ttvauth.top/s/491/1/auto/UVFOTWhSWHRpRnpFeVRuR0ZzdWU2ZnpqeUVyUWNxRGQxeEk1KzdPTkEvbEYrVktRTEt3RnA5MU5rTTJCNDI3eXRyRGhSWXVZRFZJS3ovMFZPV0ZKR214cTVjZHdmMG1kY0xQelRhdTMydjc1K3dabQ/0/playlist.m3u8
+#EXTINF:-1,TLC HD
+http://1ttvauth.top/s/700/1/auto/UlFPdU14WHRpRnp3MzFJRFR1Y0RicXNXTFFmdkRmWDBTbmxvMWh0NHU0R09ZSFFrVW5QMnFoYjJoZyt3S1VoS0YzWEZKNWl3NnZUcnBMSXhnN1E0R0dkQUVwaGtVd2p3dUljMERjYWptSzRPdVRRRg/0/playlist.m3u8
+#EXTINF:-1,Усадьба ТВ
+http://1ttvauth.top/s/59/1/auto/U0FQdEloWHRpRnpvcnpyejlsbjJJN1RxYlVUalpyT3RGbGF3cnVxcGNJZDNHdU5XbUxGTmtzd0RtcGUzVDhXVm84eUtpcHhMWEhnSVpnVWwxM3I2RVMzNHBObG05WWdUVEx6YU1iazZZZzZJeHFnPQ/0/playlist.m3u8
+#EXTINF:-1,Fine Living
+http://1ttvauth.top/s/794/1/auto/cXdDamd4YnRpRnliZGRqVUg2dWhYRS82SktQaUVpa3pxU2txWnNOZVgyN2VucDVJZlZjYVBSR3VFSk9aRjlNZGErYTUrRlphWTZ0WnJ2cEN4VU1MZWtVNTErYldlZ2ZCOVNZaG9UWS8rK2pTNlJWZw/0/playlist.m3u8
+#EXTINF:-1,Большая Азия
+http://1ttvauth.top/s/1635/1/auto/dHdEd0F4YnRpRnd2a0wwQlM1OHBNS0ZDWGZCNWlBempWelg1dHZKV2J4cXRicSs3a2VpSHovSEZqczQ0alVUQUhFMmt6d3l5ZHVlL3BsNUx5UGR3dFphWXdJNWRVbVZ0MlRyUzhJZzFIUU4xRGc1Zk5nPT0/0/playlist.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1group-title=" Sportas",TVPlay Sports
+http://streams.iptv.luxe:80/p/119409/c/256/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,TVPlay Sports+ 
+http://streams.iptv.luxe:80/p/591779/c/405/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Sport 1
+http://streams.iptv.luxe:80/p/119409/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Eurosport
+http://streams.iptv.luxe:80/p/591779/c/82/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1,Viasat Sport
+http://1ttvauth.top/s/120/1/auto/aGdELzRoYnRpRnhINXlFS21HM2xjN1FXS1RsUWJUb1dCcEFLRC9oVnpTOGtwTXp1TlVNMUN4eU52ek16MjFFbGtFWVlQVmlwSnlGVlM2SXN4NzM5SGVOQjZNVkc0cVFiN0pjWUZSSDVlam9VelZLbA/0/playlist.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://1ttvauth.top/s/778/1/auto/aWdEc2hSYnRpRnp2VFR5QVhuMVArbmkzKy94M0RZRVo2UWd2OFRUeDNoTXA5TEhXZ0U5QlF6dkV5QVNFbFBkOUZJTE05UElMRyt2V216ejd6Zi8zZS8waEdBNVkwZDd4NmN2c2ZDLzVKWFJnNEp1Wg/0/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://1ttvauth.top/s/5/1/auto/alFDU0V4YnRpRnpQSEdxSUwzbjBrSDFRUFBSTXd3Smc0akNsNEtFM1lNNXViTGRuVG91d3puUjdaUjdyL1ZqWE9LNkROWG1mVTBRVnpEVmtFMitMKy9OSk4vWmI5S05lcFdEVmlVd3hBeEtodEE9PQ/0/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://1ttvauth.top/s/6/1/auto/a0FBeEdoYnRpRnp6WVhlbXFBdTBiZXQ1eTNDTlRXbmJibkRFSSsvVVY1QmtNOXhReUZGQ3RQOXYzTHl2QWJqMnora01Feloxcmo2YnBJeHhxUkt0SzVZNEZOc1dOU1V0bjgvL0Q4Uyswc3FKK2c9PQ/0/playlist.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://1ttvauth.top/s/172/1/auto/bEFDZlp4YnRpRnd6Y3poeWRxaFhGeFVSRHZvM1FGekRydkRucXZvQ0tGMlJXcVUzN0RhcG9oTkdYc2xYRkNIM3pOeDBRYTFXQlRESTdGbjNhZjhyUjRYdUxrQmxyc1U4QlBvam5FdmY5bjdXYlpIOA/0/playlist.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://1ttvauth.top/s/626/1/auto/bHdEOS9oYnRpRnlndHVPRFZoODdNM1dSWUFBZ3g5VExHM2lJenFsOGJUTVF3VjhjeEE0aUdheGU0UTdKeFRsNlphaTJQTmI4aWlPUDMyekdZN0h6RERIVVZOa05Pc0JpbjFKT0puSnl1ekNwZlhldA/0/playlist.m3u8
+#EXTINF:-1,Extreme Sports
+http://1ttvauth.top/s/8/1/auto/bWdCZ0xSYnRpRno1Ynd5OFFYdTA1REtUL2wrMXQxUWRQaU9vU3lYM3FSMkZNclRlTVZIVmZpbFlWekkvczlwUDhyMVoxYW5hUHpuU095Um1hTFI5Qll2RUtWRml6c0xyN250Qmp0OFl5bzVxTUE9PQ/0/playlist.m3u8
+#EXTINF:-1,CBC Sport HD
+http://1ttvauth.top/s/1229/1/auto/bmdCbWhCYnRpRndRL0p4eUVoWGpJN2FBeFFmVDJ5ZENoYnBEVSs4UU9KdVNzVDduWFR3cU54elhzamZpQStNaDdRejk2cy9Fenc3SnNXMXI2MXJkQTllWmd3WWFpc0FqbEdvNVQ0cVdWbDlBa3ZqazNRPT0/0/playlist.m3u8
+#EXTINF:-1,Матч ТВ
+http://1ttvauth.top/s/4/1/auto/b1FBakFCYnRpRnhYZjUvSEh5T0lBcWVQSk12UVJRbEluZ1FOMTVSQUVqRHpESm1FWFJpNkIvMUxCc2JUL2xBMEFTbnhxbGhmUDM0QzdJblpVTnp1bzhvaXdzaFdKZ212TE9hY1hSWU5zbUhrV2c9PQ/0/playlist.m3u8
+#EXTINF:-1,Матч ТВ HD
+http://1ttvauth.top/s/1016/1/auto/cEFBRXZ4YnRpRno5VWVEcWExRTdDUitGZFlOMHJlZWtLRmtTYlNRUUdOTEF3ek1yWXBlcmJmc1JTcVNBSTFybWF5VzF6Vm5XVVFWSlBEd1pRdVMrNHJocmorUXI2NkNOcm9vRTMwcmRpdmswOXpWZVRBPT0/0/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1group-title=" Žinios",Euronews
+http://streams.iptv.luxe:80/p/119409/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1,EuroNews
+http://1ttvauth.top/s/41/1/auto/U3dOc3dCWHRpRnh4QWVIbExuU1o2YXNka3FYQzkra0N5dlF4SFU1LzFDTWhyb0x4SFpSTzc5a0FxQldwTU5rUWFkOUdNdVIvYUJMYU1PeG0wb2NUZld6OWxNbkIwTTk0Z2VyWlNQcjgzQTZFYTdNPQ/0/playlist.m3u8
+#EXTINF:-1,EuroNews
+http://1ttvauth.top/s/41/1/auto/VGdOVndoWHRpRng0VHJ1MG9NNGhPOGhKKy94dThxNWZyZTlrYzd1V1FuWVRuTUhoSjBzdks2WHRjNjJOWDFoYVFvUFYzU0locVZFZWxuUFlEbzJOeEptdnpwZzVNQkl2bmtVUmtrQk5TaythZW9JPQ/0/playlist.m3u8
+#EXTINF:-1,CNN International
+http://1ttvauth.top/s/51/1/auto/VVFPZ1p4WHRpRndXSmFBYlEyeWRQUThEdzM4ZWpVRzkwS3RDdzVZZVZONnZqOVQ0K2tOTXRzM2p0RUNGeFo4N0lkK2RuYzlTWUVwR01nakVYRXlkZlJIUmIrN1p2Y3cyWkF6cVY5UVZ5WkZ1T1ZRPQ/0/playlist.m3u8
+#EXTINF:-1,BBC World News
+http://1ttvauth.top/s/334/1/auto/VkFOZTdoWHRpRnh5QXJtU1JMUzRVbWU0SUJ0a2p2RXdrNG9kRTZsWTVYeEJ4TVIwdEVtSG96cVlnRXkxMHRxOFBkVEgwQSs1T3cxQkZxWFcvLzVVaTA0OElPR2VmUW9YcFFIM2F2T0dmTURqQWtvbQ/0/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1group-title=" Pramoginiai",TV3+ Latvia
+http://streams.iptv.luxe:80/p/547623/c/1/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1,THT Comedy 
+http://streams.iptv.luxe:80/p/591779/c/418/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,ТНТ
+http://streams.iptv.luxe:80/s/13163/c/211/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,ТНТ4
+|http://streams.iptv.luxe:80/p/119410/c/87/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+
+
+#EXTINF:-1,НТВ Стиль
+http://1ttvauth.top/s/1205/1/auto/S3dPeThoWHRpRnpBQ24zWUUzQmVoYzZLaDR0aVFJQlFiQ0R6NkdvVERPRFlSZDNONmFOT0M4SVZGWGV5VXFLVjh5ZWh3eThuMm5ndHd3RDhDV1V0amJGOTRtT3p1UVphVlZIa1V6dEJ6aC9QV09jOVRnPT0/0/playlist.m3u8
+#EXTINF:-1,HD Media
+http://1ttvauth.top/s/609/1/auto/T0FNSC9SWHRpRndMbW9oc0tHUUVHYVdxTGptSG92RlM0MWJPUzhsd0dHNmgyV3pOdFJTSGpNNks5d2JQa2FKcjBmeURxQWRYZUdDQzFVc2JxQlZodGVDeDVhTndIS21MdzRCUGZpK25YMVhhMk8rYQ/0/playlist.m3u8
+#EXTINF:-1,Paramount Comedy
+http://streams.iptv.luxe:80/s/13163/c/102/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Paramount Comedy HD
+http://streams.iptv.luxe:80/s/13163/c/98/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Юмор ТВ
+http://1ttvauth.top/s/785/1/auto/Q2dEVW14YnRpRndxWDhXSWVSenhsNksxWWd3Z0dKMm5tNDFuT3BIa3FGVWtMMm5DVVY1bllnVlJaeWg1QzRVdThvcGlxVkNoR2IxK1EyU2xJbUM4NzVKR0cwTkNkdUlvZkRNdGZmaGhWVWU5R3llcQ/0/playlist.m3u8
+#EXTINF:-1,QTV
+http://1ttvauth.top/s/505/1/auto/YXdDRjVoYnRpRnkvemZzemlLTFVwUlRLbW40RnpGT3VMaFMydGNtejJNd3ZTeGhJd2YyL0FJZm5zYnpCQmg2a1lpc0xQeVZuaWpZTWcyWUs1WEJUQUk3djFZYWhMbU5Zd0Q1YXUzUWU2M2V3cXhiRw/0/playlist.m3u8
+#EXTINF:-1,К1
+http://1ttvauth.top/s/205/1/auto/d0FDL1l4YnRpRng5TXJVZXdVcXhHTWFsOWlXUlMzemd2eXJzUE50S0wreTVFMHZLdGVBc3NqRmwrQ3FXUWYwcitpQjRqbTNyTlZYbTRmZlJkcVRsRXF2eW9WZHhoSUVDc0Z2WC9JbDVVTnBLU2p0Lw/0/playlist.m3u8
+#EXTINF:-1,К2
+http://1ttvauth.top/s/207/1/auto/d3dEbEpCYnRpRnlEOXhKSkFBbER3NG9Yc2NrWGRLRWZCYkk3Vy9peUNQOU1IL2gzYXJIa1JUZytLZVZvWEpHNlJUTCtaMWpvNDNXbFdBdU80dTVycWJPaDdFbTZpeTFJMFVLbitPMFVZeC8vblV4RQ/0/playlist.m3u8
+#EXTINF:-1,Новый канал
+http://1ttvauth.top/s/510/1/auto/eHdCZmdoYnRpRndnSFVreUJvUnFWTjhtOVBENVg5S3RVZ2tXcEhQODNoUWN4eStzMURWMVBXc2trKzljcTN5YnR2WWlnajkyQkVvUVFjMThZcGtZYjR0Y09pMDdGSlJ4MmMvNXdZRHhXeHp3NTY4cg/0/playlist.m3u8
+#EXTINF:-1,Перец International
+http://1ttvauth.top/s/1274/1/auto/eWdCaXdoYnRpRnlYVnVPUmZSMElSbzNPQjdzSENQVmtUNHhHZjBoV0Q4d0hmcTdaclZ2d3V4UDkrK2ZaRFlNaEtFVE5vRmVIZThEUVRoWXo0Y0xtQm9LQUp4QXArRC9DZi9jQzdBMVJ0L2RrdnFJQmFRPT0/0/playlist.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1group-title=" Muzika",VH1
+http://1ttvauth.top/s/58/1/auto/RFFCT0p4YnRpRnhMbXFVSGtKUE80NUN4bDgxY0dFMWgrY1g3ZThnU2IzZURERHQ5K3FhQ2YzdHpISmJZa2NpM01rdWdwVmdiUUpmc2x6WC9JTUZWYXBWbk44RjNIa0NnQjBkanJYcHRlalR5cG84PQ/0/playlist.m3u8
+#EXTINF:-1,VH1 Classic
+http://1ttvauth.top/s/104/1/auto/RUFDMkFSYnRpRnlmOTZEeWsyZ3FBcU55TE1vZUphU1g3dTJhdHNzdUNXMURzaFRranhxTlBuYVJibC92M01URlpVa0t0Zk11YW5BWUJOQi9lbzNJUGlZZDlFZ3NTc1hqOWRtQ29zNWt4dE91c21FQQ/0/playlist.m3u8
+#EXTINF:-1,MTV Hits
+http://1ttvauth.top/s/462/1/auto/RXdEak1SYnRpRnluRFZJbEg1MkRqRWV4blkvWTVrWUxINjZId0FnNTErWkZmTUNzcWVKVlpDdjRROEhGZ0tpTnN3bm10NDdLcGpOL24zT0ZJcXpscnZ2TlZSNzhlemM2WnAxc09WMkVzbExLOE16Nw/0/playlist.m3u8
+#EXTINF:-1,MTV Live HD
+http://1ttvauth.top/s/546/1/auto/RmdCamNSYnRpRngxa1lYQUF2eHhraHV6WXhwOWlrV0QvYndDMjdlOXlqajltSktqTzcwTXVIMHVSbjRXcTlMWnppdm9lTnVNVU1JRndGTXRVTDFPdXZiL0NSVUxjbmJJVVhTbnJIOVk2N3ZhRnRlMg/0/playlist.m3u8
+#EXTINF:-1,MTV Dance
+http://1ttvauth.top/s/105/1/auto/R1FDekNCYnRpRnpxZUwzT3MzdjNxU3ZGdmIrK0xiNWFxbGl4bkFhaFNPQytKWk9WSGU4QkdOVHVkVzNxbnlCaENzVlppamVyckVlTldSNjZEbWZFZFZOZDJaQnhFTThUeEVPVEJxWnp1dWdRYnZpeA/0/playlist.m3u8
+#EXTINF:-1,MTV Rocks
+http://1ttvauth.top/s/493/1/auto/SFFBcXR4YnRpRnd6bXlSdEcyMGIyRlFGZitlTDJxQ3JUVXVkZi9nTHYwYlpMbEN3Q00zd3ZmU20zQXVjUXRGQkUzMWVlT0R4SEJrQ1dsWERXWDhvZDBmWWJCenRnVGwyUWRmd2pBZ1RkZkR3S1pRSg/0/playlist.m3u8
+#EXTINF:-1,MTV Россия
+http://1ttvauth.top/s/658/1/auto/SUFEVXdoYnRpRnlJSUlpUm1JY2hwU2srQXZIOVVyZWJxbFJ3dkZJcnpEaEpXV1pSelNjYVkwNVM5Z1o0cm9LUFVGMFFvMnBPbVd4bk9mV1FUcmxqYUpISTVlQ3dKblU3bDh4TjdRL2FvZktqQmZqMw/0/playlist.m3u8
+#EXTINF:-1,Music Box UA
+http://1ttvauth.top/s/508/1/auto/SmdBZ2NCYnRpRnk5QzgyQjFJenZ0aHRFTE1YalpGQ0UzWEpjTlpnakNPSVlIRE5qeGcram1vdHQzUmxJemNqUnJEWCtSQjE1eE5uNGhtZGNWRllWZytxOXNRc1JoV1NDVHI2V1VKcWFEQkZkb1Rqbw/0/playlist.m3u8
+#EXTINF:-1,Music Box Gold
+http://1ttvauth.top/s/163/1/auto/S2dBeE54YnRpRnhYOTNVanByK0lENUJubVUzZkpGS05mTmtwS0Izb1hONy9WanVvdjc0OENKYi9TYVAyWGo3OFJDZ0YyU1Y1ektILyt6T0FXSUptVWYxNkRqV0ZmT0FVY09DTTlsSUE5dTJMTWJMeg/0/playlist.m3u8
+#EXTINF:-1,RU TV
+http://1ttvauth.top/s/161/1/auto/TFFDeTRSYnRpRnpXR0hJSENuYlc4d0VUOWlaK2I4a1h5Q3Vvd3BqYVJDd2x6NWlsNThkazVJNzB3WWxKbVcxVGFEdzFJcHA1RUtnWWp4dnc1NStncXFsTk9yS3ZJSjUzQkdnSTRROEFRVXJwZWgrKw/0/playlist.m3u8
+#EXTINF:-1,Music Box RU
+http://1ttvauth.top/s/107/1/auto/TUFCcjZ4YnRpRnpmQVZaSXNaWlpQTTgwcWVFaTlqNzM4aGF0dC9TaW1XQXcwL2tPcS82dW5DQWFhQ1pxbUNWUC9LOVJhU20zZm9VS1JTaGtWQzltazgyOVloRTFPRlhqbE5YS3VjWGlhbzFFSWQzOA/0/playlist.m3u8
+#EXTINF:-1,1 HD
+http://1ttvauth.top/s/719/1/auto/TXdBdkV4YnRpRnhjTy9WbjE1dXNaZ1lKbWNTVi9BS0JWaEYrZ0NmR2orUm9KR0xFMDZoOUsxNEM2UmNYVlJTajcyanVWRkMyeUgzQlBsVDlLQ2J3anVjM3ROSDlrdHE5REFNc21mTS80V0VLaTFySQ/0/playlist.m3u8
+#EXTINF:-1,Europa Plus TV
+http://1ttvauth.top/s/424/1/auto/TndESEhCYnRpRnhYSGwwUURKbWtPRVM3Y2sxdE85cStuT2RHNGx4R0syNEoydUNycE92Vm03RVVBN1N1SEdzS3hHbDUvUzZqMWplMDZjY212eElFZnlIK0hlVmlsWC96L1RBWFRkd05lbCt1WFpwdg/0/playlist.m3u8
+#EXTINF:-1,Bridge HD
+http://1ttvauth.top/s/1214/1/auto/T2dBbUFSYnRpRnlDbmplY3pyT2M3c0tWRDBVOUR2V29TN1plWnJ2R1lPTEdJTlRZTTNpejlHeFVGcGN1dXNNWm05K0dpd0dBUG9Vb3NQbWZKRVhkK01IanJtV2ZNL0ZaRjRNQ3YwbkpxU2o1ZHF6RmNRPT0/0/playlist.m3u8
+#EXTINF:-1,Музыка Первого
+http://1ttvauth.top/s/108/1/auto/UFFDamtSYnRpRnhFYXNwd2RpQnN0TnFLd1k3MlNuVHIzbjNoOUV3UFJPNG1Kd0p3VlJ3aU5rMlVrL0c3bkcvOGYwUVlNS2VqbTgyZ0Q3NWFDdG8yNy9wc1M5ZzdCMitTUnpVSjlOeDVlNnJQazZQdQ/0/playlist.m3u8
+#EXTINF:-1,Муз ТВ
+http://1ttvauth.top/s/27/1/auto/UUFBOS94YnRpRndVUmdVbytVNjB4bE9IeTU4OGZ4U05HdFNLZ0Y3L00zQnVSWmtxalVabUVyMlJDK1RVVTgrQWhYK1IrRXNySzBMSmNqaG1BdG9hcUlBcmdYL1hpMWpVdkhXU0wrK2lFaWpCU3J3PQ/0/playlist.m3u8
+#EXTINF:-1,Bridge TV Dance
+http://1ttvauth.top/s/955/1/auto/UkFETUF4YnRpRnozY3lFdjBvRWNualNMc3FacFlHQjFWLzZtL0pYQ05DNVJiSm1CZkJ1WHJKL3M3VXFGM250bXFyWWpMVFVhRFNPME9IY2VIc0xjNFdXRVg2UEI1VHo4QlB5WSt1WDZiMFJQZ25Xeg/0/playlist.m3u8
+#EXTINF:-1,Eska Rock TV
+http://1ttvauth.top/s/1792/1/auto/UndEbWNoYnRpRnh0MUpsVE9USmpBOGdGZUs2SHZ3REduaE4rVlZVVUlsQVZJdkxySDJuaHdwZTBXZFk5YTdnc3J3eEJJQi9vTmlGVFVuZ3E5cCt5VG9VQndscVhHVW82SkxuVHJUbG11WnBDaURNMzFBPT0/0/playlist.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+http://1ttvauth.top/s/468/1/auto/U3dBdUJCYnRpRnlRcnpyV1VnekdmMHJYTnhIcXRWK0xVRlNscHNMZ3U2TnlFM3djT05CNGNtT0pXZlgwQUk0L3ZhR3NjaGdZY21XYktHdGJvOWVUYjRxNVpGY0VJc0x1d3JaYjM2OG4wUGFyQ1BvdQ/0/playlist.m3u8
+#EXTINF:-1,MCM Top
+http://1ttvauth.top/s/106/1/auto/VGdET1h4YnRpRnlLRVhvYTg3MnM4d2pwemVOVm1rTWpBeVRrWlkvRWR4TjlrS21xK3FXS1dVNlhFN05jNUZsbHMxLzMwU295ZkJvSmliejVKbDFSMkRnR1BYSFA3aEtaWnFLSWNUTis2SUU0V24xNQ/0/playlist.m3u8
+#EXTINF:-1,М1
+http://1ttvauth.top/s/503/1/auto/VWdENjhoYnRpRnpKMVRhR1BNbys5SWxTSVpjQkxqM0JlTlVyNWxqVkdJdnh1c3luUlFBbVRua084YnpJZWdEMDlKa2doR2xLNjZIN0tkVkRLQ01HMzhnTUl1WFFUcUJXN3FIb3RuMGJ0dW11aUhJVg/0/playlist.m3u8
+#EXTINF:-1,М2
+http://1ttvauth.top/s/504/1/auto/VlFDTitoYnRpRnd5NTJUVk15cUJ0ZEZiZERwNkRJeGZTbVo1aUFUV1FUc0pqbVAxNXJKM0diZzJ3Q1IzNmdYSnJtN3Z4T210WHd5MC8vNFdwVCs2VWNBNDdtaTZNOHo1ZVlQK0xiWlVMRXlneTN5bA/0/playlist.m3u8
+#EXTINF:-1,Шансон ТВ
+http://1ttvauth.top/s/175/1/auto/V0FDalhoYnRpRnlKVVluWHJIRWQ3NVF3VHVsTnZ5ZHdoWTg5L0t3TUhPTHBZVEhBTER4TUJFd2VSckdaVmRwYWtueWJodTZRbjZLUTZadEJDQ0VQbi81M3lJY05YYlBURnd5dERoeVRJYzBaazUrVw/0/playlist.m3u8
+#EXTINF:-1,Bridge TV Classic
+http://1ttvauth.top/s/958/1/auto/dWdEck1SYnRpRnpJRWx0TEtaMmxKM2FGeVFJdGtIU0FKUHRXQ21SQkFzZUh4TExXR2M5TzBlKzBxQVhtVFBvT2V3dGw2VGNOeVR4QTFXWkxhMFBFOWh1WldiK2N6RkNkK2dFb0s4WU5rNDBpVGQvZA/0/playlist.m3u8
+
+
+
+#EXTINF:-1group-title=" Vaikams",Cartoon Network
+http://1ttvauth.top/s/42/1/auto/WEFBY3lCYnRpRnpuTFA5bEl2OS8rNjFoRWtRbjlWNGxqQ3JqK0pyYk1HQi9oTUtzS1dhV3lIa3FHOUg3OXdoT0d3dHJwSTdyT2M0Q0ZmQU9qUXRaRGFiby9MVDF3VjlXOHp1VlpjdE94WndCWHZVPQ/0/playlist.m3u8
+#EXTINF:-1,Pingviniukas 
+http://streams.iptv.luxe:80/p/591779/c/38/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1,Nick Jr.
+http://1ttvauth.top/s/549/1/auto/WHdEMlJoYnRpRnp2SGNwWTM5dHFndWxGWGs3TmllVG4yMzJQclhCcjRJNkhVNk5ZcERQZFNoZDBJc3JBV0Y4WGZoaUd1aXdEbHpKdWhVVGd2VWVVUS9zUzNqOXVTcWd5c003QWlVZUdiRE5GSVZWZA/0/playlist.m3u8
+#EXTINF:-1,JimJam
+http://1ttvauth.top/s/173/1/auto/WWdERDdoYnRpRndzVkxkaTNDcVpyb3pCU3pEdDlTbnd1ejdNRlNIUk1SNXZTZWlRcWMwd3Eyd1FMajVzQlBRVGZvYW41UWJ1RGdLSzd3R3AxV2ZYdmQxeThTOWtKeVh4eDhOMVlVeWlWRGw2YXZUaA/0/playlist.m3u8
+#EXTINF:-1,TiJi
+http://1ttvauth.top/s/229/1/auto/WlFDUEhoYnRpRnhvNEtnM2ljaVZHQ2ljREZlTDZEaEJhYjErd3Z6UVQ2QnoyNUFXQjlhM2F2Z1VNR2FCdGFqTnJEMVlHUWNyY0hlZlZndnBOM214dW9oeE9rbzZseFZoUnlrWkVjYXNPTHhSSUpHaA/0/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://1ttvauth.top/s/48/1/auto/YUFCNWh4YnRpRnhPSFBZOG1vbnlxdlJSMzloNHFPdjZWWjJxbjBqTkpIRmlXS1BJL3VzWjE4WDZrdVVSckxoZmxXQS85K215Ym8xWVdFakNmVTRYTTUrN0R6TGJ1V2ZHdjByMGV6YkhGMllpL3FvPQ/0/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://1ttvauth.top/s/240/1/auto/YndCa3VoYnRpRndybGlwZW5TTENFdTBOeE9NRHFUemp4V2pKVjhrYzdkVFpGRGxZTTNyVHUybFd6K2VabkxIMm5vcmtJbFJIclJ0STZwbFRSa2Ricm5nUElXM2QvT3RncTV4M0JxcnhJM3Z4cUh5Tw/0/playlist.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://1ttvauth.top/s/548/1/auto/Y2dESXJoYnRpRnhVNDQ5YVc2eldpK0dpRTlHWWhrMHcyWmhrSkh0RU13dmlMMmFZeVFpVU5JSVFHeU84SnZsdXZjbzVkWmlkRStkRHoxS3NVSWZFY3FBRG1nZjlGS0dhTEgzTW1nVk84bXd6ZWVMVg/0/playlist.m3u8
+#EXTINF:-1,Gulli Girl
+http://1ttvauth.top/s/212/1/auto/ZFFBNzZCYnRpRnp4dTBwV1l3b256Y29vZ216cDVpRDhtdlV2TiszcDBWS1RpcWwvN0g3OGhlS2psVVkrQm12Z2xqdW1jOGg1SjBMV255THlXYzBxZzRuRG11QlYrQk9nZEFRVlhaNWJoTEkwTDhZYw/0/playlist.m3u8
+#EXTINF:-1,Ani
+http://1ttvauth.top/s/1002/1/auto/ZUFCSDdCYnRpRndUWWRMNWE0Rk5yZUcwamJZdzgwYWJHT2syVE9vM0ducDc5bmo1Rk1MUGVyTlI4ZHE3dGpwY0RrT1pXSmx0UEY1enB4bTJMOVluZXN2YTJTSGhPSjNLMFdDMVVkTmJFWlNTOWI5TTZRPT0/0/playlist.m3u8
+#EXTINF:-1,Мульт
+http://1ttvauth.top/s/731/1/auto/ZkFBcklCYnRpRncxK1V3ZUtkQU5qN0s2ZCtKbXRaMEZMcDl6T2hud0JXZEtWMitDd2pxWnVhUW1adVhPVUEwTWltaWlxMmc1WU5QcGtOYS9oVE9VNjVoaDZkUDRCcG11OEZvNUp5ZDRQajR4K1RrcQ/0/playlist.m3u8
+#EXTINF:-1,Карусель
+http://1ttvauth.top/s/435/1/auto/ZndEdjhCYnRpRnhlZS9EZi9KekV6eUFuQ01PbXNPajNXZHJ1WVpHNzBNWlNuRzFJVUNZYXRzRFMzR2xlTFJyL2F5NWlPc1ZjbyszdzlnQ1BMVkprMVlRQW9tNVpDU1NzbFNiSkl6d1NsbDZzQmZHQQ/0/playlist.m3u8
+#EXTINF:-1,Lale
+http://1ttvauth.top/s/724/1/auto/Z3dCeG94YnRpRnpWdVNYVkR2M2p0ZlZ2TkNPbnRCbTd3SVRoa0NNSU1pS08vMkpMOFpMK0JvZCttcDVkZ2I1NjhNdDUyVndZWFZzSXRpdDZaeDRpTTVvMDNkNFdSa0tWZVFnM1NwVndmN0N6QzhzcQ/0/playlist.m3u8
+
+
+
