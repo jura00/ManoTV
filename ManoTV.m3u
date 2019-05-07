@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" 
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png" group-title="Lietuviška TV",LRT Televizija
 http://streams.iptv.luxe:80/p/591779/c/58/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="LRT Plius" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png" group-title="Lietuviška TV",LRT Plius
