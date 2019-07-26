@@ -1,6 +1,6 @@
 ---- Lietuviška TV -------------------------------------------------------------------------------------------------------------------------
 
-#EXTM3U
+#EXTM3U url-tvg = "https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1group-title=" Lietuviška TV" tvg-id="lrt-tv",LRT Televizija
 http://iptvlive.stream:80/p/618688/c/178/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-shift=+1 tvg-id="LRT PLIUS",LRT Plius
