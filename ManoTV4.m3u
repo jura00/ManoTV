@@ -18,7 +18,7 @@ http://iptvlive.stream:80/p/728260/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 #EXTINF:-1 tvg-id="btv",BTV
 http://iptvlive.stream:80/p/728260/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="balticum-tv",Balticum TV
-http://iptvlive.stream:80/p/618688/c/163/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/637638/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="info-tv",Info TV
 http://iptvlive.stream:80/p/728260/c/1/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="lietuvos-ryto-televizija",Lietuvos rytas TV
@@ -62,13 +62,15 @@ http://iptvlive.stream:80/p/728260/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 #EXTINF:-1 tvg-id="balticum-auksinis",Balticum Auksinis
 http://iptvlive.stream:80/p/728260/c/174/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="balticum-platinum",Balticum Platinum HD
-http://iptvlive.stream:80/p/618688/c/164/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/753744/c/3/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="filmzone-lt",FilmZone
-http://iptvlive.stream:80/p/618688/c/167/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/701429/c/30/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="filmzone-plus-lt",FilmZone + HD 
-http://iptvlive.stream:80/p/728260/c/172/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/689169/c/403/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="Epic Drama",Epic Drama HD
 http://iptvlive.stream:80/p/728260/c/61/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1 tvg-id="Epic Drama",Epic Drama HD 2
+http://iptvlive.stream:80/p/641003/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 
 #EXTINF:-1 tvg-shift=+1 tvg-id="TV1000",TV 1000
 http://iptvlive.stream:80/p/728260/c/71/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
