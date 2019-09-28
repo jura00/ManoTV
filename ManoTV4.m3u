@@ -3,7 +3,7 @@
 #EXTM3U url-tvg = "https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title=" Lietuviška TV" tvg-id="lrt-tv",LRT Televizija
 http://iptvlive.stream:80/p/651740/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-id="LRT PLIUS",LRT Plius
+#EXTINF:-1 tvg-id="lrt-kultura",LRT Plius
 http://iptvlive.stream:80/p/651740/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="lrt-lituanica",LRT Lituanica
 http://iptvlive.stream:80/s/9703/c/563/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
