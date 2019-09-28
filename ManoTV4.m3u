@@ -55,8 +55,8 @@ http://iptvlive.stream:80/p/591779/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 
 
 #EXTM3U
-#EXTINF:-1group-title=" Filmai" tvg-shift=+1 tvg-id="TV1000 Premium",TV1000 Premium
-http://iptvlive.stream:80/p/728260/c/73/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1group-title=" Filmai" tvg-shift=+1 tvg-id="tv1000-premium",TV1000 Premium
+http://iptvlive.stream:80/p/701429/c/78/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-shift=+1 tvg-id="tv1000-premium",TV1000 Premium HD 
 http://iptvlive.stream:80/p/728260/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="balticum-auksinis",Balticum Auksinis
@@ -68,8 +68,6 @@ http://iptvlive.stream:80/p/701429/c/30/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 #EXTINF:-1 tvg-id="filmzone-plus-lt",FilmZone + HD 
 http://iptvlive.stream:80/p/689169/c/403/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="Epic Drama",Epic Drama HD
-http://iptvlive.stream:80/p/728260/c/61/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-id="Epic Drama",Epic Drama HD 2
 http://iptvlive.stream:80/p/641003/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 
 #EXTINF:-1 tvg-shift=+1 tvg-id="TV1000",TV 1000
