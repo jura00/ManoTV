@@ -1,9 +1,9 @@
 ---- Lietuviška TV -------------------------------------------------------------------------------------------------------------------------
 
 #EXTM3U url-tvg = "https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1group-title=" Lietuviška TV" tvg-id="lrt-tv",LRT Televizija
+#EXTINF:-1 group-title=" Lietuviška TV" tvg-id="lrt-tv",LRT Televizija
 http://iptvlive.stream:80/p/651740/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="LRT PLIUS",LRT Plius
+#EXTINF:-1 tvg-id="LRT PLIUS",LRT Plius
 http://iptvlive.stream:80/p/651740/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="lrt-lituanica",LRT Lituanica
 http://iptvlive.stream:80/s/9703/c/563/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
@@ -31,23 +31,23 @@ http://iptvlive.stream:80/p/728260/c/8/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m
 http://iptvlive.stream:80/p/637638/c/30/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="init-extra-tv",INIT Ekstra TV 
 http://iptvlive.stream:80/p/591779/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-shift=+1 tvg-id="TV 7",TV7 
+#EXTINF:-1 tvg-id="TV 7",TV7 
 http://iptvlive.stream:80/p/637638/c/78/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="Play TV",PlayTV 
+#EXTINF:-1 tvg-id="Play TV",PlayTV 
 http://iptvlive.stream:80/p/591779/c/351/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-shift=+1 tvg-id="Pūkas TV",Pūkas TV 
+#EXTINF:-1 tvg-id="Pūkas TV",Pūkas TV 
 http://iptvlive.stream:80/p/529629/c/53/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="GNTV",GNTV 
+#EXTINF:-1 tvg-id="GNTV",GNTV 
 http://iptvlive.stream:80/p/637638/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="Dzūkijos TV",Dzūkijos TV
+#EXTINF:-1 tvg-id="Dzūkijos TV",Dzūkijos TV
 http://iptvlive.stream:80/p/119409/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1,Tavo TV
 http://iptvlive.stream:80/p/618688/c/130/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="Šiaulių TV",Šiaulių Televizija 
+#EXTINF:-1 tvg-id="Šiaulių TV",Šiaulių Televizija 
 1http://iptvlive.stream:80/p/637638/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="seimas-tiesiogiai",Seimas tiesiogiai 
 http://iptvlive.stream:80/p/728260/c/10/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="Žvaigždė",Žvaigždė
+#EXTINF:-1 tvg-id="Žvaigždė",Žvaigždė
 http://iptvlive.stream:80/p/591779/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 
 
@@ -55,9 +55,9 @@ http://iptvlive.stream:80/p/591779/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 
 
 #EXTM3U
-#EXTINF:-1group-title=" Filmai" tvg-shift=+1 tvg-id="tv1000-premium",TV1000 Premium
+#EXTINF:-1group-title=" Filmai" tvg-id="tv1000-premium",TV1000 Premium
 http://iptvlive.stream:80/p/701429/c/78/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="tv1000-premium",TV1000 Premium HD 
+#EXTINF:-1 tvg-id="tv1000-premium",TV1000 Premium HD 
 http://iptvlive.stream:80/p/728260/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="balticum-auksinis",Balticum Auksinis
 http://iptvlive.stream:80/p/728260/c/174/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
@@ -67,12 +67,12 @@ http://iptvlive.stream:80/p/753744/c/3/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m
 http://iptvlive.stream:80/p/701429/c/30/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="filmzone-plus-lt",FilmZone + HD 
 http://iptvlive.stream:80/p/689169/c/403/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-id="Epic Drama",Epic Drama HD
+#EXTINF:-1 tvg-id="epik-drama",Epic Drama HD
 http://iptvlive.stream:80/p/641003/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 
-#EXTINF:-1 tvg-shift=+1 tvg-id="TV1000",TV 1000
+#EXTINF:-1 tvg-id="tv1000",TV 1000
 http://iptvlive.stream:80/p/728260/c/71/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="TV1000 Action",TV 1000 Action
+#EXTINF:-1 tvg-id="tv1000-action",TV 1000 Action
 http://iptvlive.stream:80/p/728260/c/72/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino",TV 1000 World Kino
 http://iptvlive.stream:80/s/13163/c/344/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
