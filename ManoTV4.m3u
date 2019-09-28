@@ -2,29 +2,29 @@
 
 #EXTM3U url-tvg = "https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1group-title=" Lietuviška TV" tvg-id="lrt-tv",LRT Televizija
-http://iptvlive.stream:80/p/728260/c/12/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-shift=+1 tvg-id="LRT PLIUS",LRT Plius
-http://iptvlive.stream:80/p/728260/c/13/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="lrt-lituanica",LRT Lituanica
 http://iptvlive.stream:80/s/9703/c/563/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-id="tv3-lt",TV3
-http://iptvlive.stream:80/p/728260/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="lnk",LNK
-http://iptvlive.stream:80/p/728260/c/6/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="tv6-lt",TV6
-http://iptvlive.stream:80/p/728260/c/28/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="tv1-lt",TV1
-http://iptvlive.stream:80/p/728260/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/19/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="btv",BTV
-http://iptvlive.stream:80/p/728260/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/15/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="balticum-tv",Balticum TV
 http://iptvlive.stream:80/p/637638/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="info-tv",Info TV
-http://iptvlive.stream:80/p/728260/c/1/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/163/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-id="lietuvos-ryto-televizija",Lietuvos rytas TV
-http://iptvlive.stream:80/p/728260/c/11/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/178/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-id="tv8-lt",TV8
-http://iptvlive.stream:80/p/728260/c/29/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/651740/c/10/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="liuks",LIUKS!
 http://iptvlive.stream:80/p/728260/c/8/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="init-tv",INIT TV 
