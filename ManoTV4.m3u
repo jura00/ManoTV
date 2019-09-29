@@ -174,10 +174,10 @@ http://iptvlive.stream:80/p/558965/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 
 
 #EXTM3U
-#EXTINF:-1group-title=" Pažintiniai" tvg-shift=+1 tvg-id="Viasat Explore Nordic",Viasat Explore
-http://iptvlive.stream:80/p/683813/c/270/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="Viasat History",Viasat History
-http://iptvlive.stream:80/p/683813/c/151/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1group-title=" Pažintiniai" tvg-id="viasat-explore",Viasat Explore
+http://iptvlive.stream:80/p/641003/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1 tvg-id="viasat-history",Viasat History
+http://iptvlive.stream:80/p/641003/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="discovery-channel",Discovery Channel 
 http://iptvlive.stream:80/p/683813/c/256/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="discovery-science",Discovery Science 
@@ -516,9 +516,9 @@ http://iptvlive.stream:80/p/591779/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 
 
 #EXTM3U
-#EXTINF:-1group-title=" Pažintiniai HD" tvg-shift=+1 tvg-id="Viasat Explore Nordic",Viasat Explore HD
+#EXTINF:-1group-title=" Pažintiniai HD" tvg-id="viasat-explore",Viasat Explore HD
 http://iptvlive.stream:80/p/547623/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-shift=+1 tvg-id="Viasat History",Viasat History HD
+#EXTINF:-1 tvg-id="viasat-history",Viasat History HD
 http://iptvlive.stream:80/p/570039/c/131/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="discovery-channel",Discovery Channel HD
 http://iptvlive.stream:80/p/579554/c/48/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
