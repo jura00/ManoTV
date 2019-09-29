@@ -7,6 +7,8 @@ http://iptvlive.stream:80/p/651740/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 http://iptvlive.stream:80/p/651740/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="lrt-lituanica",LRT Lituanica
 http://iptvlive.stream:80/s/9703/c/563/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1 tvg-id="smartzone",SmartZone HD
+http://iptvlive.stream:80/p/641003/c/24/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="tv3-lt",TV3
 http://iptvlive.stream:80/p/651740/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-id="lnk",LNK
