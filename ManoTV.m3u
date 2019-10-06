@@ -551,5 +551,17 @@ http://iptvlive.stream:80/p/602876/c/154/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://89.117.128.169:80/Palanga/palanga.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Palangos tiltas 2" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/palangos_tiltas_s.png",Palangos tiltas 2
 https://s1.dcdn.lt/livecam/pal05.stream/playlist.m3u8 
-#EXTINF:-1 tvg-name="Katedros aikštės Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/vilnius_s.png",Katedros aikštės Vilniuje
+#EXTINF:-1 tvg-name="Katedros aikštė Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/vilnius_s.png",Katedros aikštė Vilniuje
 https://s1.dcdn.lt/livecam/vl147.stream/playlist.m3u8  
+#EXTINF:-1 tvg-name="Kauno Rotušės aikštė" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/kauno_rotuse_s.png",Kauno Rotušės aikštė
+https://s1.dcdn.lt/livecam/kn039.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Baltojo tilto Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/vilnius_baltasis_tiltas_s.jpg",Baltojo tilto Vilniuje
+https://s1.dcdn.lt/livecam/vl132.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Geležinio vilko g. Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/vilnius_gelezinio_vilko_s.png",Geležinio vilko g. Vilniuje
+https://s1.dcdn.lt/live/smil:vilnius.smil/playlist.m3u8 
+#EXTINF:-1 tvg-name="Klaipėdos jūrų muziejus" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/juru_muziejus_s.png",Klaipėdos jūrų muziejus
+https://s1.dcdn.lt/livecam/kljm1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Išvažiuojant iš Vilniaus į Panevėžį" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/vilono_viesbutis_s.png",Išvažiuojant iš Vilniaus į Panevėžį
+https://s1.dcdn.lt/livecam/vl517.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Goštauto g. Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/vilnius_gostauto_gatve_s.png",Goštauto g. Vilniuje
+https://s1.dcdn.lt/livecam/vl108.stream/playlist.m3u8
