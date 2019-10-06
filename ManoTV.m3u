@@ -613,3 +613,9 @@ http://89.117.128.169/Tvtower/tvtower.stream/playlist.m3u8
 http://78.58.155.62:1936/live/camera.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kaunas - Stadionas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://www.img.worldcam.pl/webcams/420x236/kaunas.jpg",Kaunas - Stadionas
 https://s1.worldcam.live:8082/kaunas/index.m3u8
+#EXTINF:-1 tvg-name="USA - Times Square" tvg-id="id" group-title="WorldCam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIFjZbymeSQPf4_nNp74AcAHgn-P942Z1aSvSKpXNpck89Fo9",USA - Times Square
+http://videos3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="USA - Times Square 2" tvg-id="id" group-title="WorldCam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9naLNyzM7tPt2jF6I-pdWow6xt9J0_MQJa7im70HjZE0JXekQ",USA - Times Square 2
+http://videos3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="USA - Times Square Street" tvg-id="id" group-title="WorldCam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcOzxHITLyq06fMkqhgwtvi8EbDcfd0s4aaPNdS3qA6IJfjb3",USA - Times Square Street
+http://videos3.earthcam.com:1935/fecnetwork/9974.flv/playlist.m3u8
