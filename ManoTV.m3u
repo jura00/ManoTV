@@ -547,3 +547,9 @@ http://iptvlive.stream:80/p/602876/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m
 http://iptvlive.stream:80/p/602876/c/87/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Ocean TV" tvg-id="ocean-tv" group-title="Rusiška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Ocean%20TV.png",Ocean TV
 http://iptvlive.stream:80/p/602876/c/154/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1 tvg-name="Palangos tiltas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/palangos_tiltas_s.png",Palangos tiltas
+http://89.117.128.169:80/Palanga/palanga.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Palangos tiltas 2" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/palangos_tiltas_s.png",Palangos tiltas 2
+https://s1.dcdn.lt/livecam/pal05.stream/playlist.m3u8 
+#EXTINF:-1 tvg-name="Katedros aikštės Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/vilnius_s.png",Katedros aikštės Vilniuje
+https://s1.dcdn.lt/livecam/vl147.stream/playlist.m3u8  
