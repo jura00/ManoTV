@@ -551,68 +551,68 @@ http://iptvlive.stream:80/p/602876/c/154/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://89.117.128.169:80/Palanga/palanga.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Palangos tiltas 2" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/palangos_tiltas_s.png",Palangos tiltas 2
 https://s1.dcdn.lt/livecam/pal05.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Nidos prieplauka" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://images.webcams.travel/full/1439987876.jpg?token=seejh.com:7217a0457be537bd24f6105435a3bf50:1570397305",Nidos prieplauka
+http://89.117.128.169:80/Nida/nida.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Katedros aikštė Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/vilnius_s.png",Katedros aikštė Vilniuje
 https://s1.dcdn.lt/livecam/vl147.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kauno Rotušės aikštė" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/kauno_rotuse_s.png",Kauno Rotušės aikštė
 https://s1.dcdn.lt/livecam/kn039.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Klaipėdos jūrų muziejus" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/juru_muziejus_s.png",Klaipėdos jūrų muziejus
+https://s1.dcdn.lt/livecam/kljm1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Klaipėdos jūrų muziejus 2" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/juru_muziejus_pingvinai_s.png",Klaipėdos jūrų muziejus 2
+https://s1.dcdn.lt/livecam/kljm2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Klaipėdos uostas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/klaipedos_molas_s.png",Klaipėdos uostas
+https://s1.dcdn.lt/livecam/kl011.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Žvejų g. Klaipėdoje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/zveju_gatve_s.png",Žvejų g. Klaipėdoje
+https://s1.dcdn.lt/livecam/kl016.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Klaipėda" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjAQYp5ai0tbyMr3dq0kv0jFAxJyognPIzzV3SmM3URSJ0t9kc",Klaipėda
+http://89.117.128.169/Klaipeda/klaipeda.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Svencelė" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/svencele_s.png",Svencelė
+https://s1.dcdn.lt/livecam/ner05.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Parnidžio kopos" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/nida_s.png",Parnidžio kopos
+https://s1.dcdn.lt/livecam/ner01.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Trakų pilis" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/traku_pilis_s.png",Trakų pilis
+https://s1.dcdn.lt/livecam/tra04.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Nemuno kilpa ties Raudone" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/raudones_pilis_s.png",Nemuno kilpa ties Raudone
+https://s1.dcdn.lt/livecam/sak03.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Baltojo tilto Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/vilnius_baltasis_tiltas_s.jpg",Baltojo tilto Vilniuje
 https://s1.dcdn.lt/livecam/vl132.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geležinio vilko g. Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/vilnius_gelezinio_vilko_s.png",Geležinio vilko g. Vilniuje
 https://s1.dcdn.lt/live/smil:vilnius.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Klaipėdos jūrų muziejus" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/juru_muziejus_s.png",Klaipėdos jūrų muziejus
-https://s1.dcdn.lt/livecam/kljm1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Išvažiuojant iš Vilniaus į Panevėžį" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/vilono_viesbutis_s.png",Išvažiuojant iš Vilniaus į Panevėžį
 https://s1.dcdn.lt/livecam/vl517.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Goštauto g. Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/vilnius_gostauto_gatve_s.png",Goštauto g. Vilniuje
 https://s1.dcdn.lt/livecam/vl108.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Klaipėdos jūrų muziejus 2" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/juru_muziejus_pingvinai_s.png",Klaipėdos jūrų muziejus 2
-https://s1.dcdn.lt/livecam/kljm2.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Žvejų g. Klaipėdoje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/zveju_gatve_s.png",Žvejų g. Klaipėdoje
-https://s1.dcdn.lt/livecam/kl016.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Išvažiuojant iš Klaipėdos į Kauną" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/jaku_ziedas_s.png",Išvažiuojant iš Klaipėdos į Kauną
-https://s1.dcdn.lt/livecam/kl026.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Laisvės al. Kaune" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/laisves_aleja_s.png",Laisvės al. Kaune
-https://s1.dcdn.lt/livecam/kn025.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Karaliaus Mindaugo pr. Kaune" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/karaliaus_mindaugo_s.png",Karaliaus Mindaugo pr. Kaune
-https://s1.dcdn.lt/livecam/kn085.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Prietilčio g. Kaune" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/prietilcio_gatve_s.jpg",Prietilčio g. Kaune
-https://s1.dcdn.lt/livecam/kn090.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Klaipėdos uostas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/klaipedos_molas_s.png",Klaipėdos uostas
-https://s1.dcdn.lt/livecam/kl011.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Trakų pilis" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/traku_pilis_s.png",Trakų pilis
-https://s1.dcdn.lt/livecam/tra04.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Parnidžio kopos" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/nida_s.png",Parnidžio kopos
-https://s1.dcdn.lt/livecam/ner01.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Šilalės apylinkių vėjo jėgainės" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/vejo_jegaines_s.png",Šilalės apylinkių vėjo jėgainės
-https://s1.dcdn.lt/livecam/sll50.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Nemuno kilpa ties Raudone" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/raudones_pilis_s.png",Nemuno kilpa ties Raudone
-https://s1.dcdn.lt/livecam/sak03.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Milvydų kaimo elnynas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/elniai_s.png",Milvydų kaimo elnynas
-https://s1.dcdn.lt/livecam/si508.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Svencelė" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/svencele_s.png",Svencelė
-https://s1.dcdn.lt/livecam/ner05.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Naisių gandralizdis" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/naisiu_gandralizdis_s.png?v1",Naisių gandralizdis
-https://s1.dcdn.lt/livecam/si511.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Druskininkų parkas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/druskininkai_s.png",Druskininkų parkas
-https://s1.dcdn.lt/livecam/dru11.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Liepkalnio pramogų parkas Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/liepkalnis_s.jpg",Liepkalnio pramogų parkas Vilniuje
 https://s1.dcdn.lt/live/liepkalnis2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Liepkalnio pramogų parkas Vilniuje 2" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/liepkalnis_s.jpg",Liepkalnio pramogų parkas Vilniuje 2
 https://s1.dcdn.lt/live/liepkalnis3.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Nidos prieplauka" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://images.webcams.travel/full/1439987876.jpg?token=seejh.com:7217a0457be537bd24f6105435a3bf50:1570397305",Nidos prieplauka
-http://89.117.128.169:80/Nida/nida.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Klaipėda" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjAQYp5ai0tbyMr3dq0kv0jFAxJyognPIzzV3SmM3URSJ0t9kc",Klaipėda
-http://89.117.128.169/Klaipeda/klaipeda.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Kalitos kalnas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxlAyJ7WbuU7cQUtRl0i-zV6oPlXK2WtDfnlLV1W2j84XxB9-",Kalitos kalnas
-https://g0.ipcamlive.com/player/player.php?alias=kalitoskamera5
-#EXTINF:-1 tvg-name="Lietuvos žiemos sporto centras" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGEz7Y8mLDsfbPX5jDJWok-BqPFfPPzP1MWgceAYHIKv9eOZv",Lietuvos žiemos sporto centras
-https://rtsp.me/embed/Hfrzd6a2/
 #EXTINF:-1 tvg-name="Televizijos bokštas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIi5phkiNwFt1sDHx30MeIcYO1np5BYB0Ev269VPYNAu7mbpKU",Televizijos bokštas
 http://89.117.128.169/Tvtower/tvtower.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kauno uostas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxUOHuXD_LPKlx3g2haen0S71lLYh2nHdNpjkuBu9qIn3SGC2",Kauno uostas
 http://78.58.155.62:1936/live/camera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Karaliaus Mindaugo pr. Kaune" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/karaliaus_mindaugo_s.png",Karaliaus Mindaugo pr. Kaune
+https://s1.dcdn.lt/livecam/kn085.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Laisvės al. Kaune" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/laisves_aleja_s.png",Laisvės al. Kaune
+https://s1.dcdn.lt/livecam/kn025.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Prietilčio g. Kaune" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/prietilcio_gatve_s.jpg",Prietilčio g. Kaune
+https://s1.dcdn.lt/livecam/kn090.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kaunas - Stadionas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://www.img.worldcam.pl/webcams/420x236/kaunas.jpg",Kaunas - Stadionas
 https://s1.worldcam.live:8082/kaunas/index.m3u8
+#EXTINF:-1 tvg-name="Išvažiuojant iš Klaipėdos į Kauną" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/jaku_ziedas_s.png",Išvažiuojant iš Klaipėdos į Kauną
+https://s1.dcdn.lt/livecam/kl026.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Šilalės apylinkių vėjo jėgainės" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/vejo_jegaines_s.png",Šilalės apylinkių vėjo jėgainės
+https://s1.dcdn.lt/livecam/sll50.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Milvydų kaimo elnynas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/elniai_s.png",Milvydų kaimo elnynas
+https://s1.dcdn.lt/livecam/si508.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Naisių gandralizdis" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/naisiu_gandralizdis_s.png?v1",Naisių gandralizdis
+https://s1.dcdn.lt/livecam/si511.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Druskininkų parkas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/druskininkai_s.png",Druskininkų parkas
+https://s1.dcdn.lt/livecam/dru11.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kalitos kalnas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxlAyJ7WbuU7cQUtRl0i-zV6oPlXK2WtDfnlLV1W2j84XxB9-",Kalitos kalnas
+https://g0.ipcamlive.com/player/player.php?alias=kalitoskamera5
+#EXTINF:-1 tvg-name="Lietuvos žiemos sporto centras" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGEz7Y8mLDsfbPX5jDJWok-BqPFfPPzP1MWgceAYHIKv9eOZv",Lietuvos žiemos sporto centras
+https://rtsp.me/embed/Hfrzd6a2/
 #EXTINF:-1 tvg-name="USA - Times Square" tvg-id="id" group-title="WorldCam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIFjZbymeSQPf4_nNp74AcAHgn-P942Z1aSvSKpXNpck89Fo9",USA - Times Square
 http://videos3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
 #EXTINF:-1 tvg-name="USA - Times Square 2" tvg-id="id" group-title="WorldCam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9naLNyzM7tPt2jF6I-pdWow6xt9J0_MQJa7im70HjZE0JXekQ",USA - Times Square 2
