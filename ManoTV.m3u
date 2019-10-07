@@ -550,15 +550,15 @@ http://iptvlive.stream:80/p/602876/c/154/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Palangos tiltas" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/palangos_tiltas_s.png",Palangos tiltas
 http://89.117.128.169:80/Palanga/palanga.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Palangos tiltas 2" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g4.dcdn.lt/vd/i/24-7/headlines/palangos_tiltas_s.png",Palangos tiltas 2
-https://s1.dcdn.lt/livecam/pal05.stream/playlist.m3u8 
+https://s1.dcdn.lt/livecam/pal05.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Katedros aikštė Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/vilnius_s.png",Katedros aikštė Vilniuje
-https://s1.dcdn.lt/livecam/vl147.stream/playlist.m3u8  
+https://s1.dcdn.lt/livecam/vl147.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kauno Rotušės aikštė" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/kauno_rotuse_s.png",Kauno Rotušės aikštė
 https://s1.dcdn.lt/livecam/kn039.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Baltojo tilto Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g3.dcdn.lt/vd/i/24-7/headlines/vilnius_baltasis_tiltas_s.jpg",Baltojo tilto Vilniuje
 https://s1.dcdn.lt/livecam/vl132.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geležinio vilko g. Vilniuje" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g2.dcdn.lt/vd/i/24-7/headlines/vilnius_gelezinio_vilko_s.png",Geležinio vilko g. Vilniuje
-https://s1.dcdn.lt/live/smil:vilnius.smil/playlist.m3u8 
+https://s1.dcdn.lt/live/smil:vilnius.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Klaipėdos jūrų muziejus" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/juru_muziejus_s.png",Klaipėdos jūrų muziejus
 https://s1.dcdn.lt/livecam/kljm1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Išvažiuojant iš Vilniaus į Panevėžį" tvg-id="id" group-title="Lietuvos kameros" tvg-logo="https://g1.dcdn.lt/vd/i/24-7/headlines/vilono_viesbutis_s.png",Išvažiuojant iš Vilniaus į Panevėžį
@@ -619,3 +619,47 @@ http://videos3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
 http://videos3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
 #EXTINF:-1 tvg-name="USA - Times Square Street" tvg-id="id" group-title="WorldCam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcOzxHITLyq06fMkqhgwtvi8EbDcfd0s4aaPNdS3qA6IJfjb3",USA - Times Square Street
 http://videos3.earthcam.com:1935/fecnetwork/9974.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="USA - Lauderdale-By-The-Sea Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",USA - Lauderdale-By-The-Sea Cam
+http://videos3.earthcam.com:1935/fecnetwork/windjammerHD2.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="USA - Wonder Works Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",USA - Wonder Works Cam
+http://media5.tripsmarter.com:1935/wonderworks//wonderworksroofcam/playlist.m3u8
+#EXTINF:-1 tvg-name="USA - Wrightsville Beach" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",USA - Wrightsville Beach
+http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Berghaus Foppa" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Berghaus Foppa
+https://ch-fra-n5.livespotting.com/windit-edge/smil:vv195.smil/chunklist_b3072000.m3u8
+#EXTINF:-1 tvg-name="Brazil - Rio de Janeiro" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Brazil - Rio de Janeiro
+http://videos3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="Budapest Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Budapest Cam
+http://videos3.earthcam.com:1935/fecnetwork/15041.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canada - Edmonton Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Canada - Edmonton Cam
+http://videos3.earthcam.com/fecnetwork/15629.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canada - Toronto" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Canada - Toronto
+http://videos3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+#EXTINF:-1 tvg-name="Hamburg - Emporio" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Hamburg - Emporio
+https://ch-fra-n4.livespotting.com/windit-edge/smil:vv47.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-name="Helgoland - Am Falm" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Helgoland - Am Falm
+https://ch-fra-n3.livespotting.com/windit-edge/smil:vv211.smil/chunklist_b3072000.m3u8
+#EXTINF:-1 tvg-name="Ireland - Dublin Pub" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Ireland - Dublin Pub
+http://videos3.earthcam.com:1935/fecnetwork/4054.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="Oberjoch - Iselerbahn" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Oberjoch - Iselerbahn
+https://ch-fra-n5.livespotting.com/windit-edge/smil:LS_56d19.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-name="Poland - Cracow" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Poland - Cracow
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Poland - Hotel" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Poland - Hotel
+http://hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Poland - Sarbinowo" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Poland - Sarbinowo
+http://hoktastream1.webcamera.pl/sarbinowo_cam_bd6ec8/sarbinowo_cam_bd6ec8.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Poland - Sopot" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Poland - Sopot
+http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Poland - Wroclaw" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Poland - Wroclaw
+http://hstream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Portugal WEBCAM: FURADOURO" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Portugal WEBCAM: FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
+Link
