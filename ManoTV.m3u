@@ -655,6 +655,34 @@ http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
 http://hstream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Portugal WEBCAM: FURADOURO" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Portugal WEBCAM: FURADOURO
 http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+#EXTINF:-1 tvg-name="Bognorregis (UK)" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Bognorregis (UK)
+https://videos3.earthcam.com/fecnetwork/5288.flv/chunklist_w721329289.m3u8
+#EXTINF:-1 tvg-name="Baltimora" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Baltimora
+https://videos3.earthcam.com/fecnetwork/15658.flv/chunklist_w331834704.m3u8
+#EXTINF:-1 tvg-name="San Francisco 360°" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",San Francisco 360°
+https://videos3.earthcam.com/fecnetwork/6961.flv/chunklist_w335961271.m3u8
+#EXTINF:-1 tvg-name="Hollywood live" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Hollywood live
+https://videos3.earthcam.com/fecnetwork/lacitytours1.flv/chunklist_w683585821.m3u8
+#EXTINF:-1 tvg-name="Thailand" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Thailand
+https://videos3.earthcam.com/fecnetwork/14329.flv/chunklist_w670501004.m3u8
+#EXTINF:-1 tvg-name="miami Beaches" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",miami Beaches
+https://videos3.earthcam.com/fecnetwork/13862.flv/chunklist_w309672791.m3u8
+#EXTINF:-1 tvg-name="Banja Luka (Босния и Герцеговина) 2" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Banja Luka (Босния и Герцеговина) 2
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
+#EXTINF:-1 tvg-name="Bulgaria Sofia street Ring Road" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Bulgaria Sofia street Ring Road
+rtsp://91.191.213.43:554/live_mpeg4.sdp
+#EXTINF:-1 tvg-name="Bulgaria Varna" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Bulgaria Varna
+rtsp://91.191.213.48:554/live_mpeg4.sdp
+#EXTINF:-1 tvg-name="Bulgaria Varna center" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Bulgaria Varna center
+rtsp://91.191.213.49:554/live_mpeg4.sdp
+#EXTINF:-1 tvg-name="Germany - Düsseldorf 2" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Germany - Düsseldorf 2
+http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/playlist.m3u8
+#EXTINF:-1 tvg-name="Hawaii - Waikoloa Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Hawaii - Waikoloa Cam
+http://videos3.earthcam.com:1935/fecnetwork/5758.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="Japan - Tokyo Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Japan - Tokyo Cam
+http://videos3.earthcam.com:1935/fecnetwork/tokyo1.flv/playlist.m3u8
+#EXTINF:-1 tvg-name="Northern Mariana Islands - Saipan Beach Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Northern Mariana Islands - Saipan Beach Cam
+http://videos3.earthcam.com/fecnetwork/10610.flv/playlist.m3u8
 #EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
 Link
 #EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
