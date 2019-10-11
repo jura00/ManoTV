@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
+http://88.119.220.3/live/eds/LRT/HLS_encr/LRT.m3u8
+#EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
+http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
+#EXTINF:-1 tvg-name="TV3 SD" tvg-id="tv3-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 SD
+http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 HD
+http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
+http://88.119.220.3/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
+http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
+http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
 http://iptvlive.stream:80/p/753744/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
@@ -669,12 +683,6 @@ https://videos3.earthcam.com/fecnetwork/14329.flv/chunklist_w670501004.m3u8
 https://videos3.earthcam.com/fecnetwork/13862.flv/chunklist_w309672791.m3u8
 #EXTINF:-1 tvg-name="Banja Luka (Босния и Герцеговина) 2" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Banja Luka (Босния и Герцеговина) 2
 http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
-#EXTINF:-1 tvg-name="Bulgaria Sofia street Ring Road" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Bulgaria Sofia street Ring Road
-rtsp://91.191.213.43:554/live_mpeg4.sdp
-#EXTINF:-1 tvg-name="Bulgaria Varna" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Bulgaria Varna
-rtsp://91.191.213.48:554/live_mpeg4.sdp
-#EXTINF:-1 tvg-name="Bulgaria Varna center" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Bulgaria Varna center
-rtsp://91.191.213.49:554/live_mpeg4.sdp
 #EXTINF:-1 tvg-name="Germany - Düsseldorf 2" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Germany - Düsseldorf 2
 http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/playlist.m3u8
 #EXTINF:-1 tvg-name="Hawaii - Waikoloa Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Hawaii - Waikoloa Cam
@@ -683,11 +691,3 @@ http://videos3.earthcam.com:1935/fecnetwork/5758.flv/playlist.m3u8
 http://videos3.earthcam.com:1935/fecnetwork/tokyo1.flv/playlist.m3u8
 #EXTINF:-1 tvg-name="Northern Mariana Islands - Saipan Beach Cam" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Northern Mariana Islands - Saipan Beach Cam
 http://videos3.earthcam.com/fecnetwork/10610.flv/playlist.m3u8
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
-Link
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
-Link
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
-Link
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="WorldCam" tvg-logo="Logo",Name2
-Link
