@@ -3,14 +3,24 @@
 http://88.119.220.3/live/eds/LRT/HLS_encr/LRT-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
 http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20000=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-name="TV3 " tvg-id="tv3-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 
+#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
 http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
 http://88.119.220.3/live/eds/LNK/HLS_encr/LNK-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
 http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20002=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
+http://88.216.8.122:8080/tv1/index.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
+http://46.251.40.201:9981/stream/channelid/1425282269?ticket=292078A4743DFD8EBA2ADDE9DBA066D970023A62&profile=pass
+#EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
+http://46.251.40.201:9981/stream/channelid/166103600?ticket=5033904EB488E0D6470E7BDE93C4191C7A8B89CC&profile=pass
 #EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
 http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
+http://46.251.40.201:9981/stream/channelid/736205318?ticket=183E79AAFFEA67505F8FF1A23634A9E62C1931D1&profile=pass
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
 http://iptvlive.stream:80/p/753744/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
@@ -92,11 +102,11 @@ http://iptvlive.stream:80/p/652353/c/198/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="ViP Megahit SD" tvg-id="vip-megahit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Megahit%20HD.png",ViP Megahit SD
 http://iptvlive.stream:80/p/652356/c/197/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="ViP Premiere HD" tvg-id="vip-premiere" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Premiere%20HD.png",ViP Premiere HD
-http://iptvlive.stream:80/p/736229/c/120/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/561921/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="ViP Comedy HD" tvg-id="vip-comedy" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Comedy%20HD.png",ViP Comedy HD
-http://iptvlive.stream:80/p/736229/c/116/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/561921/c/63/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="ViP Megahit HD" tvg-id="vip-megahit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Megahit%20HD.png",ViP Megahit HD
-http://iptvlive.stream:80/p/736229/c/119/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://iptvlive.stream:80/p/561921/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="ViP Serial HD" tvg-id="vip-serial" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/ViP%20Serial%20HD.png",ViP Serial HD
 http://iptvlive.stream:80/p/736229/c/71/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Кинохит" tvg-id="kinoxit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82.png",Кинохит
