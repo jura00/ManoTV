@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška masterTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
+http://iptvlive.stream:80/p/728260/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
 http://88.119.220.3/live/eds/LRT/HLS_encr/LRT-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
