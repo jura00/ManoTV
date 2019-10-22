@@ -1,28 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
-http://iptvlive.stream:80/p/810772/c/163/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
-http://iptvlive.stream:80/p/810772/c/164/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
-http://iptvlive.stream:80/p/810772/c/156/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV3 " tvg-id="tv3-lt" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 
-http://iptvlive.stream:80/p/810772/c/170/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
-http://iptvlive.stream:80/p/810772/c/165/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
-http://iptvlive.stream:80/p/810772/c/171/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
-http://iptvlive.stream:80/p/810772/c/169/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
-http://iptvlive.stream:80/p/810772/c/172/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
-http://iptvlive.stream:80/p/810772/c/166/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
-http://iptvlive.stream:80/p/810772/c/173/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
-http://iptvlive.stream:80/p/810772/c/168/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška DimonteTV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
-http://iptvlive.stream:80/p/810772/c/167/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
+http://88.216.8.122:8080/lrt_televizija/index.m3u8
+#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
+http://88.216.8.122:8080/tv3/index.m3u8
+#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
+http://88.216.8.122:8080/lnk/index.m3u8
+#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
+http://88.216.8.122:8080/tv6/index.m3u8
+#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
+http://88.216.8.122:8080/tv1/index.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
+http://88.216.8.122:8080/info_tv/index.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
+http://88.216.8.122:8080/tv8/index.m3u8
+#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
+http://88.216.8.122:8080/liuks/index.m3u8
+#EXTINF:-1 tvg-name="Balticum TV" tvg-id="balticum-tv" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20TV.png",Balticum TV
+http://88.216.8.122:8080/balticum/index.m3u8
+#EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balticum-auksinis" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
+http://88.216.8.122:8080/balticum_auksinis/index.m3u8
+#EXTINF:-1 tvg-name="TV 1000" tvg-id="tv1000" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
+http://88.216.8.122:8080/tv1000/index.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-id="euronews" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Euronews.png",Euronews
+http://88.216.8.122:8080/euronews/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-id="discovery-science" group-title="Lietuviška Beta TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Discovery%20Science.png",Discovery Science
+http://88.216.8.122:8080/discovery_science/index.m3u8
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
 http://88.119.220.3/live/eds/LRT/HLS_encr/LRT-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
@@ -37,14 +41,8 @@ http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20002=96000-vide
 http://88.216.8.122:8080/tv1/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
 http://88.216.8.122:8080/btv/index.m3u8
-#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
-http://46.251.40.201:9981/stream/channelid/1425282269?ticket=292078A4743DFD8EBA2ADDE9DBA066D970023A62&profile=pass
-#EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
-http://46.251.40.201:9981/stream/channelid/166103600?ticket=5033904EB488E0D6470E7BDE93C4191C7A8B89CC&profile=pass
 #EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
 http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20001=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška HLS TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
-http://46.251.40.201:9981/stream/channelid/736205318?ticket=183E79AAFFEA67505F8FF1A23634A9E62C1931D1&profile=pass
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
 http://iptvlive.stream:80/p/753744/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
