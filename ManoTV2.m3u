@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Euronews" tvg-id="euronews" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Euronews.png",Euronews
-http://91.228.84.7:8080/euronews/mono.m3u8
+http://iptvlive.stream:80/p/641003/c/55/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Euronews en HD" tvg-id="euronews" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Euronews.png",Euronews en HD
 http://91.211.132.25/hls/95/stream.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-id="cnn" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/CNN%20International.png",CNN International
@@ -16,7 +16,7 @@ http://91.212.80.14/channel/31.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
 http://iptvlive.stream:80/p/753744/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
-http://212.12.194.10/lrtlituanica/live.m3u8
+http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
 http://91.228.84.7:8080/tv3/mono.m3u8
 #EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
@@ -28,7 +28,7 @@ http://91.228.84.7:8080/tv1/mono.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
 http://91.228.84.7:8080/btv/mono.m3u8
 #EXTINF:-1 tvg-name="Balticum TV" tvg-id="balticum-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20TV.png",Balticum TV
-http://212.12.194.10/balticum/live.m3u8
+http://88.216.8.122:8080/balticum/index.m3u8
 #EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
 http://91.228.84.7:8080/infotv/mono.m3u8
 #EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
@@ -99,11 +99,11 @@ http://iptvlive.stream:80/p/641003/c/34/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 http://91.228.84.7:8080/tv1000ru/mono.m3u8
 #EXTINF:-1 tvg-name="TV 1000 World Kino" tvg-id="tv1000-worldkino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20World%20Kino.png",TV 1000 World Kino
 http://185.175.92.10:8080/tv1000_world_kino/mono.m3u8
-#EXTINF:-1 tvg-name="ViP Premiere SD" tvg-id="vip-premiere" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Premiere%20HD.png",ViP Premiere SD
+#EXTINF:-1 tvg-name="ViP Premiere " tvg-id="vip-premiere" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Premiere%20HD.png",ViP Premiere 
 http://iptvlive.stream:80/p/652356/c/196/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="ViP Comedy SD" tvg-id="vip-comedy" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Comedy%20HD.png",ViP Comedy SD
+#EXTINF:-1 tvg-name="ViP Comedy " tvg-id="vip-comedy" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Comedy%20HD.png",ViP Comedy 
 http://91.211.132.25/hls/211/stream.m3u8
-#EXTINF:-1 tvg-name="ViP Megahit SD" tvg-id="vip-megahit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Megahit%20HD.png",ViP Megahit SD
+#EXTINF:-1 tvg-name="ViP Megahit " tvg-id="vip-megahit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VIP%20Megahit%20HD.png",ViP Megahit 
 http://iptvlive.stream:80/p/652356/c/197/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Кинохит" tvg-id="kinoxit" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82.png",Кинохит
 http://185.78.112.23/kinohit/mono.m3u8
@@ -119,18 +119,20 @@ http://91.212.80.14/channel/171.m3u8
 http://91.212.80.14/channel/170.m3u8
 #EXTINF:-1 tvg-name="Kinoman HD" tvg-id="EPG N/A" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Kinoman%20HD.png",Kinoman HD
 http://iptvlive.stream:80/p/561323/c/39/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кинопоказ 1 HD" tvg-id="kinopokaz-hd1" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%201%20HD.png",Кинопоказ 1 HD
+#EXTINF:-1 tvg-name="Шокирующее HD" tvg-id="kinopokaz-hd1" group-title="Filmai" tvg-logo="https://iptvx.one/icn/shokiruyushchee.png",Шокирующее HD
 http://iptvlive.stream:80/s/13163/c/121/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Кинопоказ 2 HD" tvg-id="kinopokaz-hd2" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%202%20HD.png",Кинопоказ 2 HD
+#EXTINF:-1 tvg-name="Комедийное HD" tvg-id="kinopokaz-hd2" group-title="Filmai" tvg-logo="https://iptvx.one/icn/komedijnoe.png",Комедийное HD
 http://iptvlive.stream:80/s/13163/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1 tvg-name="Остросюжетное HD" tvg-id="ostrosiuzhetnoe-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD.png",Остросюжетное HD
+http://iptvlive.stream:80/s/13163/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1 tvg-name="Мужское кино" tvg-id="muzhskoe-kino" group-title="Filmai" tvg-logo="https://iptv.live/ru/images/logo/channel/crops/fd6b1a231c07d09db037f37f18e9d295.png",Мужское кино
+http://ltcam2.ddns.net:43173/iptv/XT8QRLUKBDVF32/164/index.m3u8
 #EXTINF:-1 tvg-name="Hollywood" tvg-id="hollywood" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Hollywood.png",Hollywood
 http://91.211.132.25/hls/220/stream.m3u8
 #EXTINF:-1 tvg-name="Hollywood HD" tvg-id="hollywood-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Hollywood%20HD.png",Hollywood HD
 http://91.211.132.25/hls/196/stream.m3u8
 #EXTINF:-1 tvg-name="Paramount Channel" tvg-id="paramount-channel" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Paramount%20Channel%20HD.png",Paramount Channel
 http://91.212.80.14/channel/219.m3u8
-#EXTINF:-1 tvg-name="Остросюжетное HD" tvg-id="ostrosiuzhetnoe-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD.png",Остросюжетное HD
-http://iptvlive.stream:80/s/13163/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="AMC" tvg-id="amc" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/AMC.png",AMC
 http://94.130.11.102:8085/AMC/mono.m3u8
 #EXTINF:-1 tvg-name="Кино ТВ" tvg-id="kino-tv" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png",Кино ТВ
@@ -139,6 +141,8 @@ http://iptvlive.stream:80/s/13163/c/123/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://91.212.80.14/channel/152.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ" tvg-id="kinopokaz" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7.png",Кинопоказ
 http://91.212.80.14/channel/64.m3u8
+#EXTINF:-1 tvg-name="Еврокино" tvg-id="evrokino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png",Еврокино
+http://91.211.132.25/hls/24/stream.m3u8
 #EXTINF:-1 tvg-name="FilmBox" tvg-id="filmbox-ru" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/FilmBox.png",FilmBox
 http://91.212.80.14/channel/307.m3u8
 #EXTINF:-1 tvg-name="FilmBox Arthouse" tvg-id="filmbox-arthouse" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Filmbox%20Arthouse.png",FilmBox Arthouse
@@ -147,16 +151,10 @@ http://91.212.80.14/channel/308.m3u8
 http://iptvlive.stream:80/p/618688/c/185/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Наше любимое кино" tvg-id="nashe-lubimoe" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",Наше любимое кино
 http://iptvlive.stream:80/p/573542/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Дом кино" tvg-id="domkino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%94%D0%BE%D0%BC%20%D0%BA%D0%B8%D0%BD%D0%BE.png",Дом кино
-http://185.22.183.149:8085/media/hls_183_149/domkino/index.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" tvg-id="illuzion-plus" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%2B.png",Иллюзион+
 http://iptvlive.stream:80/p/561921/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Родное кино" tvg-id="rodnoe-kino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%A0%D0%9E%D0%94%D0%9D%D0%9E%D0%95%20%D0%9A%D0%98%D0%9D%D0%9E.png",Родное кино
 http://iptvlive.stream:80/p/579554/c/96/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
-#EXTINF:-1 tvg-name="Еврокино" tvg-id="evrokino" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png",Еврокино
-http://91.211.132.25/hls/24/stream.m3u8
-#EXTINF:-1 tvg-name="Kino 24" tvg-id="kino-24" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Kino%2024.png",Kino 24
-http://iptvlive.stream:80/p/591779/c/376/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="TV1000 Premium HD" tvg-id="tv1000-premium" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV1000 Premium HD
 http://91.228.84.7:8080/tv_1000_premium_hd/mono.m3u8
 #EXTINF:-1 tvg-name="TV 1000 HD" tvg-id="tv1000" group-title="Filmai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000 HD
@@ -199,8 +197,8 @@ http://iptvlive.stream:80/p/570039/c/130/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://iptvlive.stream:80/p/579554/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Amedia 1" tvg-id="amedia1" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%201.png",Amedia 1
 http://185.78.112.23/amedia/mono.m3u8
-#EXTINF:-1 tvg-name="Amedia 2" tvg-id="amedia2" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%202.png",Amedia 2
-http://iptvlive.stream:80/p/579554/c/222/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+#EXTINF:-1 tvg-name="Amedia 2 HD" tvg-id="amedia2" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%202.png",Amedia 2 HD
+http://176.62.191.181:19000/dop20511/outdoorhd/index.m3u8
 #EXTINF:-1 tvg-name="Amedia Hit" tvg-id="amedia-hit" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%20Hit.png",Amedia Hit
 http://iptvlive.stream:80/p/570039/c/140/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Amedia Premium" tvg-id="amedia-premium" group-title="Serialai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Amedia%20Premium.png",Amedia Premium
