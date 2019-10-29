@@ -117,14 +117,16 @@ http://91.212.80.14/channel/160.m3u8
 http://91.212.80.14/channel/171.m3u8
 #EXTINF:-1 tvg-name="Киносемья" tvg-id="kinosemiya" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F.png",Киносемья
 http://91.212.80.14/channel/170.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-id="amc" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/AMC.png",AMC
+http://94.130.11.102:8085/AMC/mono.m3u8
 #EXTINF:-1 tvg-name="Kinoman HD" tvg-id="EPG N/A" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Kinoman%20HD.png",Kinoman HD
 http://iptvlive.stream:80/p/561323/c/39/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
-#EXTINF:-1 tvg-name="Шокирующее HD" tvg-id="kinopokaz-hd1" group-title="Filmai" tvg-logo="https://iptvx.one/icn/shokiruyushchee.png",Шокирующее HD
+#EXTINF:-1 tvg-name="Шокирующее HD" tvg-id="kinopokaz-hd1" group-title="Filmai" tvg-logo="https://iptv.live/ru/images/logo/channel/crops/c9f747cd259bd7bf3a3fd64d43ccbaf7.png",Шокирующее HD
 http://iptvlive.stream:80/s/13163/c/121/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Комедийное HD" tvg-id="kinopokaz-hd2" group-title="Filmai" tvg-logo="https://iptvx.one/icn/komedijnoe.png",Комедийное HD
 http://iptvlive.stream:80/s/13163/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Остросюжетное HD" tvg-id="ostrosiuzhetnoe-hd" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD.png",Остросюжетное HD
-http://iptvlive.stream:80/s/13163/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+http://ltcam2.ddns.net:43173/iptv/XT8QRLUKBDVF32/904/index.m3u8
 #EXTINF:-1 tvg-name="Мужское кино" tvg-id="muzhskoe-kino" group-title="Filmai" tvg-logo="https://iptv.live/ru/images/logo/channel/crops/fd6b1a231c07d09db037f37f18e9d295.png",Мужское кино
 http://ltcam2.ddns.net:43173/iptv/XT8QRLUKBDVF32/164/index.m3u8
 #EXTINF:-1 tvg-name="Hollywood" tvg-id="hollywood" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Hollywood.png",Hollywood
@@ -133,8 +135,6 @@ http://91.211.132.25/hls/220/stream.m3u8
 http://91.211.132.25/hls/196/stream.m3u8
 #EXTINF:-1 tvg-name="Paramount Channel" tvg-id="paramount-channel" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Paramount%20Channel%20HD.png",Paramount Channel
 http://91.212.80.14/channel/219.m3u8
-#EXTINF:-1 tvg-name="AMC" tvg-id="amc" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/AMC.png",AMC
-http://94.130.11.102:8085/AMC/mono.m3u8
 #EXTINF:-1 tvg-name="Кино ТВ" tvg-id="kino-tv" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png",Кино ТВ
 http://iptvlive.stream:80/s/13163/c/123/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="TV XXI (TV21)" tvg-id="tvxxi" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%20XXI%20(Tv21).png",TV XXI (TV21)
