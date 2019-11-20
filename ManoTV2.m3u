@@ -14,11 +14,11 @@ http://iptvlive.stream:80/p/663250/c/205/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Žinios" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
 http://88.216.8.122:8080/info_tv/index.m3u8
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
-http://88.119.220.3/live/eds/LRT/HLS_encr/LRT-audio_20000=96000-video=2200000.m3u8
+http://88.119.220.3/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1-avc1_2200000=5.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
 http://iptvlive.stream:80/p/753744/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
-http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20000=96000-video=2200000.m3u8
+http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-mp4a_96000=1-avc1_2200000=8.m3u8
 #EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
 http://88.216.8.122:8080/tv3/index.m3u8
 #EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
@@ -66,7 +66,7 @@ http://iptvlive.stream:80/p/641003/c/6/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m
 #EXTINF:-1 tvg-name="LRT Plius HD" tvg-id="lrt-kultura" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius HD
 http://iptvlive.stream:80/p/753744/c/75/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20HD.png",TV3 HD
-https://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=5500000.m3u8
+http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-mp4a_96000_lit=9-avc1_5500000=11.m3u8
 #EXTINF:-1 tvg-name="LNK HD" tvg-id="lnk" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK%20HD.png",LNK HD
 http://iptvlive.stream:80/p/641003/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="TV6 HD" tvg-id="tv6-lt" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6%20HD.png",TV6 HD
@@ -84,7 +84,7 @@ http://iptvlive.stream:80/p/753744/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 #EXTINF:-1 tvg-name="Init TV HD" tvg-id="init-tv" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20TV.png",Init TV HD
 http://iptvlive.stream:80/p/637638/c/31/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="TV1000 Premium" tvg-id="tv1000-premium" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV1000 Premium
-http://88.119.220.3/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-audio_20000=96000-video=2200000.m3u8
+http://88.119.220.3/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=13.m3u8
 #EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balticum-auksinis" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
 http://iptvlive.stream:80/p/784722/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Balticum Platinum HD" tvg-id="balticum-platinum" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Platinum%20HD.png",Balticum Platinum HD
