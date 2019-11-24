@@ -16,11 +16,13 @@ http://88.216.8.122:8080/info_tv/index.m3u8
 #EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
 http://88.119.220.3/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1-avc1_2200000=5.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" tvg-id="lrt-kultura" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius
-http://iptvlive.stream:80/p/753744/c/74/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+http://iptvlive.stream:80/p/814237/c/77/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
 http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-mp4a_96000=1-avc1_2200000=8.m3u8
 #EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
 http://88.216.8.122:8080/tv3/index.m3u8
+#EXTINF:-1 tvg-name="TV3 HLS" tvg-id="tv3-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3 HLS
+https://cdn9.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-mp4a_96000_lit=9-avc1_2200000=10.m3u8
 #EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
 http://88.216.8.122:8080/lnk/index.m3u8
 #EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
