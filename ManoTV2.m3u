@@ -317,6 +317,50 @@ http://iptvlive.stream:80/p/739833/c/173/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://iptvlive.stream:80/p/578976/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="TLC HD" tvg-id="tlc" group-title="Pažintiniai HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TLC%20HD.png",TLC HD
 http://iptvlive.stream:80/p/578976/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1 tvg-name="LRT Televizija" tvg-id="lrt-tv" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png",LRT Televizija
+http://cdn9.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1-avc1_2200000=5.m3u8
+#EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
+http://cdn9.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-mp4a_96000=1-avc1_2200000=8.m3u8
+#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
+https://cdn9.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-mp4a_96000_lit=9-avc1_2200000=10.m3u8
+#EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20HD.png",TV3 HD
+http://cdn9.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-mp4a_96000_lit=9-avc1_5500000=11.m3u8
+#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
+https://cdn9.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-mp4a_96000_lit=24-avc1_2200000=25.m3u8
+#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
+http://cdn9.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-mp4a_96000_lit=10-avc1_2200000=11.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
+https://cdn9.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-mp4a_96000_lit=9-avc1_2200000=10.m3u8
+#EXTINF:-1 tvg-name="TV3+ Latvia" tvg-id="3-plus-latvia" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%2B%20Latvia.png",TV3+ Latvia
+http://cdn9.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-mp4a_96000_rus=9-avc1_2200000=10.m3u8
+#EXTINF:-1 tvg-name="TV1000 Premium HD" tvg-id="tv1000-premium" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV1000 Premium HD
+https://cdn9.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-mp4a_96000_lit=11-avc1_5000000=10.m3u8
+#EXTINF:-1 tvg-name="TV 1000" tvg-id="tv1000" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
+https://cdn9.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-mp4a_96000_rus=9-avc1_2200000=11.m3u8
+#EXTINF:-1 tvg-name="TV 1000 Action" tvg-id="tv1000-action" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action
+https://cdn9.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-mp4a_96000_rus=5-avc1_2200000=15.m3u8
+#EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
+https://cdn9.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-mp4a_96000_lit=21-avc1_5000000=15.m3u8
+#EXTINF:-1 tvg-name="Fox" tvg-id="fox" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox.png",Fox
+http://cdn9.tvplayhome.lt/live/eds/FOX/HLS_encr/FOX-mp4a_96000_rus=1-avc1_2200000=5.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="viasat-explore" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore.png",Viasat Explore
+https://cdn9.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-mp4a_96000_rus=15-avc1_2200000=17.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-id="viasat-explore" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Explore%20HD.png",Viasat Explore HD
+https://cdn9.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-mp4a_96000_rus=2-avc1_5000000=6.m3u8
+#EXTINF:-1 tvg-name="Viasat History" tvg-id="viasat-history" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History.png",Viasat History
+http://cdn9.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-mp4a_96000_rus=1-avc1_2200000=8.m3u8
+#EXTINF:-1 tvg-name="Viasat History HD" tvg-id="viasat-history" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History%20HD.png",Viasat History HD
+http://cdn9.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-mp4a_96000_rus=1-avc1_5000000=7.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature" tvg-id="viasat-nature" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature.png",Viasat Nature
+https://cdn9.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-mp4a_96000_rus=16-avc1_2200000=21.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-id="national-geographic" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/National%20Geographic%20HD.png",National Geographic HD
+https://cdn9.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-mp4a_96000_rus=1-avc1_5000000=7.m3u8
+#EXTINF:-1 tvg-name="Sport 1" tvg-id="sport1-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201.png",Sport 1
+https://cdn9.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-mp4a_96000_lit=8-avc1_2200000=11.m3u8
+#EXTINF:-1 tvg-name="VH1 " tvg-id="vh1-european" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/VH1%20European.png",VH1
+http://cdn9.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1-mp4a_96000_eng=46-avc1_2200000=49.m3u8
+#EXTINF:-1 tvg-name="MTV Hits" tvg-id="mtv-hits" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/MTV%20Hits.png",MTV Hits
+http://cdn9.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits-mp4a_96000_eng=20-avc1_2200000=21.m3u8
 #EXTINF:-1 tvg-name="TVPlay Sports" tvg-id="tvplay-sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports.png",TVPlay Sports
 http://iptvlive.stream:80/p/641003/c/62/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="TVPlay Sports HD" tvg-id="tvplay-sports" group-title="Sportas" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TVplay%20Sports%20HD.png",TVPlay Sports HD
