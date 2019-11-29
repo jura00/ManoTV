@@ -86,7 +86,7 @@ http://iptvlive.stream:80/p/753744/c/17/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.
 #EXTINF:-1 tvg-name="Init TV HD" tvg-id="init-tv" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Init%20TV.png",Init TV HD
 http://iptvlive.stream:80/p/637638/c/31/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="TV1000 Premium" tvg-id="tv1000-premium-lt" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV1000 Premium
-http://88.119.220.3/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=13.m3u8
+http://88.119.220.3/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-mp4a_96000_lit=1-avc1_2200000=16.m3u8
 #EXTINF:-1 tvg-name="Balticum Auksinis" tvg-id="balt-auks" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Auksinis.png",Balticum Auksinis
 http://iptvlive.stream:80/p/784722/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-name="Balticum Platinum HD" tvg-id="Balticum Platinum" group-title="Filmai" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Balticum%20Platinum%20HD.png",Balticum Platinum HD
