@@ -1,97 +1,146 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Amedia 1
+﻿#EXTM3U
+
+#EXTINF:-1, Amedia 1
 http://178.68.200.87:82/play/a00g
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Amedia 2 HD
+
+#EXTINF:-1, Amedia 2 HD
 http://178.68.200.87:82/play/a01h
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Animal Planet HD
+
+#EXTINF:-1, Animal Planet HD
 http://178.68.200.87:82/play/a00f
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",BRIDGE TV
+
+#EXTINF:-1, BRIDGE TV
 http://178.68.200.87:82/play/a00h
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",BRIDGE TV Classic
+
+#EXTINF:-1, BRIDGE TV Classic
 http://178.68.200.87:82/play/a01d
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",BRIDGE TV HITS
+
+#EXTINF:-1, BRIDGE TV HITS
 http://178.68.200.87:82/play/a01c
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",C Music HD
+
+#EXTINF:-1, C Music HD
 http://178.68.200.87:82/play/a01f
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Da Vinci Learning
+
+#EXTINF:-1, Da Vinci Learning
 http://178.68.200.87:81/play/a040
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Discovery Channel
+
+#EXTINF:-1, Discovery Channel
 http://178.68.200.87:81/play/a03p
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Eurosport 1
+
+#EXTINF:-1, Eurosport 1
 http://178.68.200.87:81/play/a048
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Eurosport 2
+
+#EXTINF:-1, Eurosport 2
 http://178.68.200.87:81/play/a049
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",FOX
+
+#EXTINF:-1, FOX
 http://178.68.200.87:81/play/a02f
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",ID Investigation Discovery
+
+#EXTINF:-1, ID Investigation Discovery
 http://178.68.200.87:81/play/a03r
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",MTV
+
+#EXTINF:-1, MTV
 http://178.68.200.87:81/play/a03m
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Nat Geo Wild
+
+#EXTINF:-1, Nat Geo Wild
 http://178.68.200.87:81/play/a02g
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",National Geographic
+
+#EXTINF:-1, National Geographic
 http://178.68.200.87:81/play/a01u
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Paramount Channel
+
+#EXTINF:-1, Paramount Channel
 http://178.68.200.87:81/play/a03n
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",RTG HD
+
+#EXTINF:-1, RTG HD
 http://178.68.200.87:82/play/a02m
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",RU TV
+
+#EXTINF:-1, RU TV
 http://178.68.200.87:82/play/a00q
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Sony HD
+
+#EXTINF:-1, Sony HD
 http://178.68.200.87:82/play/a01i
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Sony SciFi
+
+#EXTINF:-1, Sony SciFi
 http://178.68.200.87:81/play/a04d
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Sony Turbo
+
+#EXTINF:-1, Sony Turbo
 http://178.68.200.87:81/play/a04e
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Spike
+
+#EXTINF:-1, Spike
 http://178.68.200.87:81/play/a03o
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Travel Channel HD
+
+#EXTINF:-1, Travel Channel HD
 http://178.68.200.87:81/play/a02m
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Travel+Adventure
+
+#EXTINF:-1, Travel+Adventure
 http://178.68.200.87:81/play/a02q
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",TV1000
+
+#EXTINF:-1, TV1000
 http://178.68.200.87:81/play/a043
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",TV1000 Action
+
+#EXTINF:-1, TV1000 Action
 http://178.68.200.87:81/play/a042
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",TV1000 Русское Кино
+
+#EXTINF:-1, TV1000 Русское Кино
 http://178.68.200.87:81/play/a041
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Viasat Explore
+
+#EXTINF:-1, Viasat Explore
 http://178.68.200.87:81/play/a044
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Viasat History
+
+#EXTINF:-1, Viasat History
 http://178.68.200.87:81/play/a045
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Viasat Nature
+
+#EXTINF:-1, Viasat Nature
 http://178.68.200.87:81/play/a046
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Евроновости
+
+#EXTINF:-1, Евроновости
 http://178.68.200.87:81/play/a04c
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Кино ТВ HD
+
+#EXTINF:-1, Кино ТВ HD
 http://178.68.200.87:82/play/a002
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",КИНОКОМЕДИЯ
+
+#EXTINF:-1, КИНОКОМЕДИЯ
 http://178.68.200.87:81/play/a01e
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",КИНОМИКС HD
+
+#EXTINF:-1, КИНОМИКС HD
 http://178.68.200.87:82/play/a033
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",КИНОСЕРИЯ
+
+#EXTINF:-1, КИНОСЕРИЯ
 http://178.68.200.87:81/play/a01i
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Кинохит
+
+#EXTINF:-1, Кинохит
 http://178.68.200.87:81/play/a031
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Матч ТВ
+
+#EXTINF:-1, Матч ТВ
 http://178.68.200.87:81/play/a03d
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Матч ТВ HD
+
+#EXTINF:-1, Матч ТВ HD
 http://178.68.200.87:82/play/a01g
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",МАТЧ! АРЕНА HD
+
+#EXTINF:-1, МАТЧ! АРЕНА HD
 http://178.68.200.87:81/play/a01s
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Матч! Игра
+
+#EXTINF:-1, Матч! Игра
 http://178.68.200.87:82/play/a00i
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",МАТЧ! ПРЕМЬЕР HD
+
+#EXTINF:-1, МАТЧ! ПРЕМЬЕР HD
 http://178.68.200.87:81/play/a036
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Матч! Страна
+
+#EXTINF:-1, Матч! Страна
 http://178.68.200.87:82/play/a00d
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Матч! Футбол 1
+
+#EXTINF:-1, Матч! Футбол 1
 http://178.68.200.87:82/play/a008
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Матч! Футбол 2
+
+#EXTINF:-1, Матч! Футбол 2
 http://178.68.200.87:82/play/a009
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Матч! Футбол 3
+
+#EXTINF:-1, Матч! Футбол 3
 http://178.68.200.87:82/play/a00a
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",МУЖСКОЕ КИНО HD
+
+#EXTINF:-1, МУЖСКОЕ КИНО HD
 http://178.68.200.87:82/play/a02s
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",МУЗ-ТВ
+
+#EXTINF:-1, МУЗ-ТВ
 http://178.68.200.87:81/play/a04b
+
