@@ -63,6 +63,24 @@ http://iptvlive.stream:80/p/591779/c/68/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 http://iptvlive.stream:80/p/728260/c/10/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="Žvaigždė" tvg-id="Žvaigždė" group-title="Lietuviška TV" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/%C5%BDvaig%C5%BEd%C4%97.png",Žvaigždė
 http://iptvlive.stream:80/p/591779/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+#EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
+http://78.61.128.180:9981/stream/channelid/1389727008
+#EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
+http://78.61.128.180:9981/stream/channelid/1002715710
+#EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
+http://78.61.128.180:9981/stream/channelid/795581992
+#EXTINF:-1 tvg-name="TV1" tvg-id="tv1-lt" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1.png",TV1
+http://78.61.128.180:9981/stream/channelid/2005772312
+#EXTINF:-1 tvg-name="BTV" tvg-id="btv" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/BTV.png",BTV
+http://78.61.128.180:9981/stream/channelid/1525525806
+#EXTINF:-1 tvg-name="Info TV" tvg-id="info-tv" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Info%20TV.png",Info TV
+http://78.61.128.180:9981/stream/channelid/162455062
+#EXTINF:-1 tvg-name="Lietuvos rytas TV" tvg-id="lietuvos-ryto-televizija" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Lietuvos%20Rytas%20TV.png",Lietuvos rytas TV
+http://78.61.128.180:9981/stream/channelid/495607727
+#EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
+http://78.61.128.180:9981/stream/channelid/1050856225
+#EXTINF:-1 tvg-name="LIUKS!" tvg-id="liuks" group-title="Lietuviška TV 2" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Liuks!.png",LIUKS!
+http://78.61.128.180:9981/stream/channelid/14317558
 #EXTINF:-1 tvg-name="LRT Televizija HD" tvg-id="lrt-tv" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija%20HD.png",LRT Televizija HD
 http://iptvlive.stream:80/p/838786/c/2/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
 #EXTINF:-1 tvg-name="LRT Plius HD" tvg-id="lrt-kultura" group-title="Lietuviška TV HD" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png",LRT Plius HD
@@ -320,23 +338,23 @@ http://cdn9.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1-avc1_220000
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-id="lrt-lituanica" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png",LRT Lituanica
 http://cdn9.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-mp4a_96000=1-avc1_2200000=8.m3u8
 #EXTINF:-1 tvg-name="TV3" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png",TV3
-https://cdn9.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-mp4a_96000_lit=9-avc1_2200000=10.m3u8
+https://cdn9.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-mp4a_96000_lit=9-avc1_2200000=13.m3u8
 #EXTINF:-1 tvg-name="TV3 HD" tvg-id="tv3-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%20HD.png",TV3 HD
-http://cdn9.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-mp4a_96000_lit=9-avc1_5500000=11.m3u8
+http://cdn9.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-mp4a_96000_lit=9-avc1_5500000=13.m3u8
 #EXTINF:-1 tvg-name="LNK" tvg-id="lnk" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png",LNK
 https://cdn9.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-mp4a_96000_lit=24-avc1_2200000=25.m3u8
 #EXTINF:-1 tvg-name="TV6" tvg-id="tv6-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV6.png",TV6
-http://cdn9.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-mp4a_96000_lit=10-avc1_2200000=11.m3u8
+http://cdn9.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-mp4a_96000_lit=10-avc1_2200000=14.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="tv8-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV8.png",TV8
-https://cdn9.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-mp4a_96000_lit=9-avc1_2200000=10.m3u8
+https://cdn9.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-mp4a_96000_lit=9-avc1_2200000=13.m3u8
 #EXTINF:-1 tvg-name="TV3+ Latvia" tvg-id="3-plus-latvia" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3%2B%20Latvia.png",TV3+ Latvia
-http://cdn9.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-mp4a_96000_rus=9-avc1_2200000=10.m3u8
+http://cdn9.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-mp4a_96000_rus=9-avc1_2200000=13.m3u8
 #EXTINF:-1 tvg-name="TV1000 Premium HD" tvg-id="tv1000-premium" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV1000%20Premium.png",TV1000 Premium HD
 https://cdn9.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-mp4a_96000_lit=11-avc1_5000000=10.m3u8
 #EXTINF:-1 tvg-name="TV 1000" tvg-id="tv1000" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000.png",TV 1000
-https://cdn9.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-mp4a_96000_rus=9-avc1_2200000=11.m3u8
+https://cdn9.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-mp4a_96000_rus=9-avc1_2200000=14.m3u8
 #EXTINF:-1 tvg-name="TV 1000 Action" tvg-id="tv1000-action" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV%201000%20Action.png",TV 1000 Action
-https://cdn9.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-mp4a_96000_rus=5-avc1_2200000=15.m3u8
+https://cdn9.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-mp4a_96000_rus=5-avc1_2200000=21.m3u8
 #EXTINF:-1 tvg-name="Epic Drama HD" tvg-id="epik-drama" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Epic%20Drama%20HD.png",Epic Drama HD
 https://cdn9.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-mp4a_96000_lit=21-avc1_5000000=15.m3u8
 #EXTINF:-1 tvg-name="Fox" tvg-id="fox" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Fox.png",Fox
@@ -350,7 +368,7 @@ http://cdn9.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-
 #EXTINF:-1 tvg-name="Viasat History HD" tvg-id="viasat-history" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20History%20HD.png",Viasat History HD
 http://cdn9.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-mp4a_96000_rus=1-avc1_5000000=7.m3u8
 #EXTINF:-1 tvg-name="Viasat Nature" tvg-id="viasat-nature" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Viasat%20Nature.png",Viasat Nature
-https://cdn9.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-mp4a_96000_rus=16-avc1_2200000=21.m3u8
+https://cdn9.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-mp4a_96000_rus=16-avc1_2200000=24.m3u8
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-id="national-geographic" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/National%20Geographic%20HD.png",National Geographic HD
 https://cdn9.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-mp4a_96000_rus=1-avc1_5000000=7.m3u8
 #EXTINF:-1 tvg-name="Sport 1" tvg-id="sport1-lt" group-title="TVPlay Home" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/Sport%201.png",Sport 1
